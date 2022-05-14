@@ -1,0 +1,20 @@
+This was the final project.
+
+This used 2D arrays, Instansiating and had some good art. Turned out super good and the planning and prototypes really helped sooo much. Also doesn't give run time errors when finished.
+
+Next time for 3d will use procedual worlds. If I wanted to go forever will put in list and prefab a row and instansiate every time it has done. Also settle on art or theme as wording became mixed with pets.
+
+Cool stuff:
+- A knows when done.
+- Uses coroutines.
+- Used free art.
+- Used sky worlds.
+- Instansiating.
+- Looping through arrays.
+- Uses color pallet (Tks Fibi <3) from Adobe (thanks Dan Cav).
+- Everything is done so the cube basically does nothing.
+- Cube structure is sooo good.
+- Really fast done Pets and such a cool font
+- Delete().
+- 3d Text.
+- Do while loop.

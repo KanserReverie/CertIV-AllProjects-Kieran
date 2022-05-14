@@ -1,0 +1,16 @@
+26/03/21 - CubeClicker_V1.1-Kie-Prog-As1
+
+Whipped this up on a long Friday night.
+
+It does not have instantiating and would be helped with ".this". It had a good GDD but should have classes planned out better. It was all in cube and should have been in a separate class in a 2D array.
+
+Made version 2 afterwards.
+
+It has an interesting:
+- Money system
+- Colour changing system
+- Slightly random velocity system linked to variables
+- Crit /super lucky (%3) drop mutiplier / function
+- Cube health constant regen
+- Used "$$" for money ^_^
+- Was going to break it into rows but this became too hard and needed full redoing

@@ -1,0 +1,18 @@
+Verson 2 of the first game trying to do an array of columns.
+
+Was cool but was trying to fix broken code and stretch it into:
+- Array of Rows.
+- Array of Columns.
+- Cube(s).
+
+Now this was me trying to fix it but it was better once I did it in a 2d array but I didn't do it here because was trying [][] instead of [,].
+
+Legit would be the best way if I just held them both in 1 big Array handler - Class.
+
+This might have worked if I knew ".this" but the code was so badly structed. I should have started again but if I didn't do this I think V2 would not have worked.
+
+Cool stuff:
+- Cubes were going to have invisible walls in prefab as not to jump (was taken out apparently but cool idea).
+- Array of Array (if this was working I would make this a list and instansiate a row on Coroutine and move camera with it).
+- Money given for break was in a 90% to 130% range of normal ammount.
+- Cubes Rotated slightly still but should find a way to root them but still turn (think I could have locked/frozen "y").
