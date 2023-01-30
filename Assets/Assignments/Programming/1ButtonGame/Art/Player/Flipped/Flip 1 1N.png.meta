@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: 3abe5e8cfce20c64c9060eb2645aeaad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8184857144784455084
+    second: Adventurer Sheet 1 - North Flip_0
+  - first:
+      213: 8995619750720258503
+    second: Adventurer Sheet 1 - North Flip_1
+  - first:
+      213: 598853884438278364
+    second: Adventurer Sheet 1 - North Flip_2
+  - first:
+      213: -308676511021372291
+    second: Adventurer Sheet 1 - North Flip_3
+  - first:
+      213: -6872219265649394166
+    second: Adventurer Sheet 1 - North Flip_4
+  - first:
+      213: 4519421649479043935
+    second: Adventurer Sheet 1 - North Flip_5
+  - first:
+      213: -3861997753657440
+    second: Adventurer Sheet 1 - North Flip_6
+  - first:
+      213: 4561614794453101573
+    second: Adventurer Sheet 1 - North Flip_7
+  - first:
+      213: 5541140429701029895
+    second: Adventurer Sheet 1 - North Flip_8
+  - first:
+      213: 6844271255845742087
+    second: Adventurer Sheet 1 - North Flip_9
+  - first:
+      213: 2892061944565517146
+    second: Adventurer Sheet 1 - North Flip_10
+  - first:
+      213: 1581238346002373310
+    second: Adventurer Sheet 1 - North Flip_11
+  - first:
+      213: 1999613274915660034
+    second: Adventurer Sheet 1 - North Flip_12
+  - first:
+      213: 1816934659991636805
+    second: Adventurer Sheet 1 - North Flip_13
+  - first:
+      213: 8675902993025193660
+    second: Adventurer Sheet 1 - North Flip_14
+  - first:
+      213: 8208692067440532584
+    second: Adventurer Sheet 1 - North Flip_15
+  - first:
+      213: -10508241579122140
+    second: Adventurer Sheet 1 - North Flip_16
+  - first:
+      213: -5858495477890660692
+    second: Adventurer Sheet 1 - North Flip_17
+  - first:
+      213: 5290573305930216156
+    second: Adventurer Sheet 1 - North Flip_18
+  - first:
+      213: 8662544995981738132
+    second: Adventurer Sheet 1 - North Flip_19
+  - first:
+      213: -7700712237769101034
+    second: Adventurer Sheet 1 - North Flip_20
+  - first:
+      213: 4946788434907215471
+    second: Adventurer Sheet 1 - North Flip_21
+  - first:
+      213: 6180032489222858459
+    second: Adventurer Sheet 1 - North Flip_22
+  - first:
+      213: -8476185044746421945
+    second: Adventurer Sheet 1 - North Flip_23
+  - first:
+      213: 3407052952211505537
+    second: Adventurer Sheet 1 - North Flip_24
+  - first:
+      213: 4143166437340930054
+    second: Adventurer Sheet 1 - North Flip_25
+  - first:
+      213: -890989679585988925
+    second: Adventurer Sheet 1 - North Flip_26
+  - first:
+      213: -252963655575749650
+    second: Adventurer Sheet 1 - North Flip_27
+  - first:
+      213: -2528328078493935894
+    second: Adventurer Sheet 1 - North Flip_28
+  - first:
+      213: -5624675997322774677
+    second: Adventurer Sheet 1 - North Flip_29
+  - first:
+      213: -7573916364534789400
+    second: Adventurer Sheet 1 - North Flip_30
+  - first:
+      213: 4186056621046896154
+    second: Adventurer Sheet 1 - North Flip_31
+  - first:
+      213: -719421467871250047
+    second: Adventurer Sheet 1 - North Flip_32
+  - first:
+      213: 1666802948719976853
+    second: Adventurer Sheet 1 - North Flip_33
+  - first:
+      213: 6283528116917672245
+    second: Adventurer Sheet 1 - North Flip_34
+  - first:
+      213: 8369567523760918589
+    second: Adventurer Sheet 1 - North Flip_35
+  - first:
+      213: -5778251235541970032
+    second: Adventurer Sheet 1 - North Flip_36
+  - first:
+      213: 2031946091147546257
+    second: Adventurer Sheet 1 - North Flip_37
+  - first:
+      213: 3388888687601011794
+    second: Adventurer Sheet 1 - North Flip_38
+  - first:
+      213: -6723149727704851096
+    second: Adventurer Sheet 1 - North Flip_39
+  - first:
+      213: 9031224019590389880
+    second: Adventurer Sheet 1 - North Flip_40
+  - first:
+      213: -6936373965082863107
+    second: Adventurer Sheet 1 - North Flip_41
+  - first:
+      213: 6786713284567565549
+    second: Adventurer Sheet 1 - North Flip_42
+  - first:
+      213: 9019360303173548434
+    second: Adventurer Sheet 1 - North Flip_43
+  - first:
+      213: 1248830299487771027
+    second: Adventurer Sheet 1 - North Flip_44
+  - first:
+      213: 1751453000726589708
+    second: Adventurer Sheet 1 - North Flip_45
+  - first:
+      213: 4329706708465449474
+    second: Adventurer Sheet 1 - North Flip_46
+  - first:
+      213: 275361403455433666
+    second: Adventurer Sheet 1 - North Flip_47
+  - first:
+      213: -5631249727998813551
+    second: Adventurer Sheet 1 - North Flip_48
+  - first:
+      213: 2621140233802877424
+    second: Adventurer Sheet 1 - North Flip_49
+  - first:
+      213: -2734759878944783190
+    second: Adventurer Sheet 1 - North Flip_50
+  - first:
+      213: 7216704814969110988
+    second: Adventurer Sheet 1 - North Flip_51
+  - first:
+      213: 4236006373860324624
+    second: Adventurer Sheet 1 - North Flip_52
+  - first:
+      213: 3484607084543942214
+    second: Adventurer Sheet 1 - North Flip_53
+  - first:
+      213: 6947473871362400911
+    second: Adventurer Sheet 1 - North Flip_54
+  - first:
+      213: 5419541738875524098
+    second: Adventurer Sheet 1 - North Flip_55
+  - first:
+      213: -2245045502985495616
+    second: Adventurer Sheet 1 - North Flip_56
+  - first:
+      213: -6807413856140369517
+    second: Adventurer Sheet 1 - North Flip_57
+  - first:
+      213: -5441685930606910923
+    second: Adventurer Sheet 1 - North Flip_58
+  - first:
+      213: -7572277187388430637
+    second: Adventurer Sheet 1 - North Flip_59
+  - first:
+      213: -4305378342058463209
+    second: Adventurer Sheet 1 - North Flip_60
+  - first:
+      213: -3296494095581682076
+    second: Adventurer Sheet 1 - North Flip_61
+  - first:
+      213: 6908495870453328381
+    second: Adventurer Sheet 1 - North Flip_62
+  - first:
+      213: 5003460111176775772
+    second: Adventurer Sheet 1 - North Flip_63
+  - first:
+      213: -2659133311450671481
+    second: Adventurer Sheet 1 - North Flip_64
+  - first:
+      213: -6543596310724414409
+    second: Adventurer Sheet 1 - North Flip_65
+  - first:
+      213: 3372810661842475535
+    second: Adventurer Sheet 1 - North Flip_66
+  - first:
+      213: -2845148388039266761
+    second: Adventurer Sheet 1 - North Flip_67
+  - first:
+      213: -8456060177490354492
+    second: Adventurer Sheet 1 - North Flip_68
+  - first:
+      213: -4592260388975981346
+    second: Adventurer Sheet 1 - North Flip_69
+  - first:
+      213: -708145604767516187
+    second: Adventurer Sheet 1 - North Flip_70
+  - first:
+      213: -1996352922865789036
+    second: Adventurer Sheet 1 - North Flip_71
+  - first:
+      213: -5822926757737511562
+    second: Adventurer Sheet 1 - North Flip_72
+  - first:
+      213: -6917638229562411827
+    second: Adventurer Sheet 1 - North Flip_73
+  - first:
+      213: 3791555779630599744
+    second: Adventurer Sheet 1 - North Flip_74
+  - first:
+      213: 6474199917041090480
+    second: Adventurer Sheet 1 - North Flip_75
+  - first:
+      213: 3370839029755176542
+    second: Adventurer Sheet 1 - North Flip_76
+  - first:
+      213: -5780643280189611005
+    second: Adventurer Sheet 1 - North Flip_77
+  - first:
+      213: 4956258580991678152
+    second: Adventurer Sheet 1 - North Flip_78
+  - first:
+      213: 6689072323801187853
+    second: Adventurer Sheet 1 - North Flip_79
+  - first:
+      213: 280633987127948696
+    second: Adventurer Sheet 1 - North Flip_80
+  - first:
+      213: -5806426340716891763
+    second: Adventurer Sheet 1 - North Flip_81
+  - first:
+      213: -9027864385672342461
+    second: Adventurer Sheet 1 - North Flip_82
+  - first:
+      213: 8369008980626469549
+    second: Adventurer Sheet 1 - North Flip_83
+  - first:
+      213: -1173852389737266712
+    second: Adventurer Sheet 1 - North Flip_84
+  - first:
+      213: -8980506298866393011
+    second: Adventurer Sheet 1 - North Flip_85
+  - first:
+      213: 4752086310547848766
+    second: Adventurer Sheet 1 - North Flip_86
+  - first:
+      213: 5926131178803204448
+    second: Adventurer Sheet 1 - North Flip_87
+  - first:
+      213: -6315237664623176557
+    second: Adventurer Sheet 1 - North Flip_88
+  - first:
+      213: -9092528476172078671
+    second: Adventurer Sheet 1 - North Flip_89
+  - first:
+      213: 5120318638601828078
+    second: Adventurer Sheet 1 - North Flip_90
+  - first:
+      213: -3924189456971744513
+    second: Adventurer Sheet 1 - North Flip_91
+  - first:
+      213: -2309187586773727219
+    second: Adventurer Sheet 1 - North Flip_92
+  - first:
+      213: 6705038391215273175
+    second: Adventurer Sheet 1 - North Flip_93
+  - first:
+      213: -8511835643683575047
+    second: Adventurer Sheet 1 - North Flip_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5023c3534769170800000000000000
+      internalID: 8184857144784455084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 408
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14b20a08cd6dc70800000000000000
+      internalID: 8995619750720258503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07e4e5f6e8f4800800000000000000
+      internalID: 598853884438278364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 408
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6012495c57bbf0800000000000000
+      internalID: -308676511021372291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 408
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3f5c0df8f0a0a0800000000000000
+      internalID: -6872219265649394166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 408
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b88679b0638be30800000000000000
+      internalID: 4519421649479043935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 408
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a715c3988742fff0800000000000000
+      internalID: -3861997753657440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 408
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2b81bc7c1e4f30800000000000000
+      internalID: 4561614794453101573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 371
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a2e2dcd516ec40800000000000000
+      internalID: 5541140429701029895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 371
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062a17d17cbbfe50800000000000000
+      internalID: 6844271255845742087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 371
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc04a040ba22820800000000000000
+      internalID: 2892061944565517146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 371
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba92bed5efa1f510800000000000000
+      internalID: 1581238346002373310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 371
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201e08bddad00cb10800000000000000
+      internalID: 1999613274915660034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 371
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b85ec527c073910800000000000000
+      internalID: 1816934659991636805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 371
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d3052ecff66870800000000000000
+      internalID: 8675902993025193660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 371
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1c5e91f12be170800000000000000
+      internalID: 8208692067440532584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 338
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42266795fcaaadff0800000000000000
+      internalID: -10508241579122140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 338
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6481a076172bea0800000000000000
+      internalID: -5858495477890660692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 340
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2722e1464eb6940800000000000000
+      internalID: 5290573305930216156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490445817ca873870800000000000000
+      internalID: 8662544995981738132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 343
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f4461503912590800000000000000
+      internalID: -7700712237769101034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 342
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b7a15fd586a440800000000000000
+      internalID: 4946788434907215471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 342
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd660844ec2e3c550800000000000000
+      internalID: 6180032489222858459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 336
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749396d4c9a8e5a80800000000000000
+      internalID: -8476185044746421945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 296
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814383db98484f20800000000000000
+      internalID: 3407052952211505537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e60f5ceb7f7930800000000000000
+      internalID: 4143166437340930054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceecb96b9192a3f0800000000000000
+      internalID: -890989679585988925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 297
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebb25045ea4d7cf0800000000000000
+      internalID: -252963655575749650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 297
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae619bd120399ecd0800000000000000
+      internalID: -2528328078493935894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 297
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f8e23bf221f1b0800000000000000
+      internalID: -5624675997322774677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac26dd13b04e690800000000000000
+      internalID: -7573916364534789400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161c23715cd71a30800000000000000
+      internalID: 4186056621046896154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897eb39cf91406f0800000000000000
+      internalID: -719421467871250047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912705637ca12710800000000000000
+      internalID: 1666802948719976853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 266
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399e01e783933750800000000000000
+      internalID: 6283528116917672245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 266
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305a69a15da62470800000000000000
+      internalID: 8369567523760918589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 264
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931f82ad178fcfa0800000000000000
+      internalID: -5778251235541970032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 263
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec795443ce23c10800000000000000
+      internalID: 2031946091147546257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_38
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 261
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4cc76e40c70f20800000000000000
+      internalID: 3388888687601011794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 259
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d536481f292b2a0800000000000000
+      internalID: -6723149727704851096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.39999568, y: 0.36457413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87029a6756a555d70800000000000000
+      internalID: 9031224019590389880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46028256, y: 0.30284977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d7f511ac0dbf90800000000000000
+      internalID: -6936373965082863107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 223
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.60227513, y: 0.27995893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4031756cf3f2e50800000000000000
+      internalID: 6786713284567565549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 223
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.69089913, y: 0.2781902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993bebb8643b2d70800000000000000
+      internalID: 9019360303173548434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39996b17a8cb45110800000000000000
+      internalID: 1248830299487771027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_45
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 223
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01b91d79396e4810800000000000000
+      internalID: 1751453000726589708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_46
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a75b3cf45361c30800000000000000
+      internalID: 4329706708465449474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb60ddccb742d300800000000000000
+      internalID: 275361403455433666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9d114538c9d1b0800000000000000
+      internalID: -5631249727998813551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90e4eb729206420800000000000000
+      internalID: 2621140233802877424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48185216e2c0ad0800000000000000
+      internalID: -2734759878944783190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 186
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c5112bc2e62460800000000000000
+      internalID: 7216704814969110988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0153c3c8a5159ca30800000000000000
+      internalID: 4236006373860324624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 186
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1d006eafcb5030800000000000000
+      internalID: 3484607084543942214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 186
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822ddc3da26a6060800000000000000
+      internalID: 6947473871362400911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_55
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 186
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204141f5f74163b40800000000000000
+      internalID: 5419541738875524098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb16f1820ff7d0e0800000000000000
+      internalID: -2245045502985495616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916ea14a253781a0800000000000000
+      internalID: -6807413856140369517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322fe63a7f3b74b0800000000000000
+      internalID: -5441685930606910923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62be8840ed9e690800000000000000
+      internalID: -7572277187388430637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_60
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f1f175393044c0800000000000000
+      internalID: -4305378342058463209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 149
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666eace5108042d0800000000000000
+      internalID: -3296494095581682076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 149
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9af923468efdf50800000000000000
+      internalID: 6908495870453328381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 149
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58378e267cdf6540800000000000000
+      internalID: 5003460111176775772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7861398875cd81bd0800000000000000
+      internalID: -2659133311450671481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f6b923d97035a0800000000000000
+      internalID: -6543596310724414409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a55c15d61aece20800000000000000
+      internalID: 3372810661842475535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee4a58d900488d0800000000000000
+      internalID: -2845148388039266761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_68
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5c59121a06aa80800000000000000
+      internalID: -8456060177490354492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_69
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4dfec1830540c0800000000000000
+      internalID: -4592260388975981346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_70
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f39a03592c26f0800000000000000
+      internalID: -708145604767516187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_71
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497954208978b44e0800000000000000
+      internalID: -1996352922865789036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 77
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67540fb07fec03fa0800000000000000
+      internalID: -5822926757737511562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc435427eac9fff90800000000000000
+      internalID: -6917638229562411827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 75
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e06fe94ef4e9430800000000000000
+      internalID: 3791555779630599744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 75
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff814d58af8d950800000000000000
+      internalID: 6474199917041090480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 75
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566493fc30a7ce20800000000000000
+      internalID: 3370839029755176542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 75
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ac07509707cfa0800000000000000
+      internalID: -5780643280189611005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69df68bea28c440800000000000000
+      internalID: 4956258580991678152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06011996db54dc50800000000000000
+      internalID: 6689072323801187853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b9aadf1305e300800000000000000
+      internalID: 280633987127948696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.42619395, y: 0.40979272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813913c10e6b6fa0800000000000000
+      internalID: -5806426340716891763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34499934c2596b280800000000000000
+      internalID: -9027864385672342461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27b44b351b42470800000000000000
+      internalID: 8369008980626469549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 38
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.29330367, y: 0.42738464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e187fa8873a5bfe0800000000000000
+      internalID: -1173852389737266712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.38383725, y: 0.45846558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4029e81a15de5380800000000000000
+      internalID: -8980506298866393011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4584278, y: 0.39446962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7332625dc2f140800000000000000
+      internalID: 4752086310547848766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_87
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619eecb8e8dd3250800000000000000
+      internalID: 5926131178803204448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d7f7bdc4cb58a0800000000000000
+      internalID: -6315237664623176557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_89
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b3a37689d0d180800000000000000
+      internalID: -9092528476172078671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee67ca65ca60f0740800000000000000
+      internalID: 5120318638601828078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffabdd9ea7a7a89c0800000000000000
+      internalID: -3924189456971744513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_92
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084c9adf1e14ffd0800000000000000
+      internalID: -2309187586773727219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43eb954e41d0d50800000000000000
+      internalID: 6705038391215273175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - North Flip_94
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa6bb76492efd980800000000000000
+      internalID: -8511835643683575047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventurer Sheet 1 - North Flip_66: 3372810661842475535
+      Adventurer Sheet 1 - North Flip_4: -6872219265649394166
+      Adventurer Sheet 1 - North Flip_91: -3924189456971744513
+      Adventurer Sheet 1 - North Flip_47: 275361403455433666
+      Adventurer Sheet 1 - North Flip_42: 6786713284567565549
+      Adventurer Sheet 1 - North Flip_34: 6283528116917672245
+      Adventurer Sheet 1 - North Flip_41: -6936373965082863107
+      Adventurer Sheet 1 - North Flip_94: -8511835643683575047
+      Adventurer Sheet 1 - North Flip_56: -2245045502985495616
+      Adventurer Sheet 1 - North Flip_75: 6474199917041090480
+      Adventurer Sheet 1 - North Flip_80: 280633987127948696
+      Adventurer Sheet 1 - North Flip_9: 6844271255845742087
+      Adventurer Sheet 1 - North Flip_6: -3861997753657440
+      Adventurer Sheet 1 - North Flip_74: 3791555779630599744
+      Adventurer Sheet 1 - North Flip_15: 8208692067440532584
+      Adventurer Sheet 1 - North Flip_33: 1666802948719976853
+      Adventurer Sheet 1 - North Flip_7: 4561614794453101573
+      Adventurer Sheet 1 - North Flip_57: -6807413856140369517
+      Adventurer Sheet 1 - North Flip_76: 3370839029755176542
+      Adventurer Sheet 1 - North Flip_61: -3296494095581682076
+      Adventurer Sheet 1 - North Flip_23: -8476185044746421945
+      Adventurer Sheet 1 - North Flip_72: -5822926757737511562
+      Adventurer Sheet 1 - North Flip_77: -5780643280189611005
+      Adventurer Sheet 1 - North Flip_35: 8369567523760918589
+      Adventurer Sheet 1 - North Flip_18: 5290573305930216156
+      Adventurer Sheet 1 - North Flip_62: 6908495870453328381
+      Adventurer Sheet 1 - North Flip_13: 1816934659991636805
+      Adventurer Sheet 1 - North Flip_28: -2528328078493935894
+      Adventurer Sheet 1 - North Flip_0: 8184857144784455084
+      Adventurer Sheet 1 - North Flip_79: 6689072323801187853
+      Adventurer Sheet 1 - North Flip_63: 5003460111176775772
+      Adventurer Sheet 1 - North Flip_24: 3407052952211505537
+      Adventurer Sheet 1 - North Flip_36: -5778251235541970032
+      Adventurer Sheet 1 - North Flip_49: 2621140233802877424
+      Adventurer Sheet 1 - North Flip_71: -1996352922865789036
+      Adventurer Sheet 1 - North Flip_88: -6315237664623176557
+      Adventurer Sheet 1 - North Flip_12: 1999613274915660034
+      Adventurer Sheet 1 - North Flip_46: 4329706708465449474
+      Adventurer Sheet 1 - North Flip_82: -9027864385672342461
+      Adventurer Sheet 1 - North Flip_38: 3388888687601011794
+      Adventurer Sheet 1 - North Flip_8: 5541140429701029895
+      Adventurer Sheet 1 - North Flip_27: -252963655575749650
+      Adventurer Sheet 1 - North Flip_78: 4956258580991678152
+      Adventurer Sheet 1 - North Flip_93: 6705038391215273175
+      Adventurer Sheet 1 - North Flip_50: -2734759878944783190
+      Adventurer Sheet 1 - North Flip_55: 5419541738875524098
+      Adventurer Sheet 1 - North Flip_86: 4752086310547848766
+      Adventurer Sheet 1 - North Flip_45: 1751453000726589708
+      Adventurer Sheet 1 - North Flip_32: -719421467871250047
+      Adventurer Sheet 1 - North Flip_53: 3484607084543942214
+      Adventurer Sheet 1 - North Flip_68: -8456060177490354492
+      Adventurer Sheet 1 - North Flip_11: 1581238346002373310
+      Adventurer Sheet 1 - North Flip_5: 4519421649479043935
+      Adventurer Sheet 1 - North Flip_65: -6543596310724414409
+      Adventurer Sheet 1 - North Flip_73: -6917638229562411827
+      Adventurer Sheet 1 - North Flip_37: 2031946091147546257
+      Adventurer Sheet 1 - North Flip_87: 5926131178803204448
+      Adventurer Sheet 1 - North Flip_54: 6947473871362400911
+      Adventurer Sheet 1 - North Flip_25: 4143166437340930054
+      Adventurer Sheet 1 - North Flip_90: 5120318638601828078
+      Adventurer Sheet 1 - North Flip_1: 8995619750720258503
+      Adventurer Sheet 1 - North Flip_43: 9019360303173548434
+      Adventurer Sheet 1 - North Flip_69: -4592260388975981346
+      Adventurer Sheet 1 - North Flip_60: -4305378342058463209
+      Adventurer Sheet 1 - North Flip_17: -5858495477890660692
+      Adventurer Sheet 1 - North Flip_22: 6180032489222858459
+      Adventurer Sheet 1 - North Flip_3: -308676511021372291
+      Adventurer Sheet 1 - North Flip_29: -5624675997322774677
+      Adventurer Sheet 1 - North Flip_40: 9031224019590389880
+      Adventurer Sheet 1 - North Flip_21: 4946788434907215471
+      Adventurer Sheet 1 - North Flip_58: -5441685930606910923
+      Adventurer Sheet 1 - North Flip_39: -6723149727704851096
+      Adventurer Sheet 1 - North Flip_26: -890989679585988925
+      Adventurer Sheet 1 - North Flip_20: -7700712237769101034
+      Adventurer Sheet 1 - North Flip_2: 598853884438278364
+      Adventurer Sheet 1 - North Flip_52: 4236006373860324624
+      Adventurer Sheet 1 - North Flip_64: -2659133311450671481
+      Adventurer Sheet 1 - North Flip_67: -2845148388039266761
+      Adventurer Sheet 1 - North Flip_81: -5806426340716891763
+      Adventurer Sheet 1 - North Flip_31: 4186056621046896154
+      Adventurer Sheet 1 - North Flip_51: 7216704814969110988
+      Adventurer Sheet 1 - North Flip_70: -708145604767516187
+      Adventurer Sheet 1 - North Flip_84: -1173852389737266712
+      Adventurer Sheet 1 - North Flip_44: 1248830299487771027
+      Adventurer Sheet 1 - North Flip_59: -7572277187388430637
+      Adventurer Sheet 1 - North Flip_92: -2309187586773727219
+      Adventurer Sheet 1 - North Flip_10: 2892061944565517146
+      Adventurer Sheet 1 - North Flip_85: -8980506298866393011
+      Adventurer Sheet 1 - North Flip_19: 8662544995981738132
+      Adventurer Sheet 1 - North Flip_14: 8675902993025193660
+      Adventurer Sheet 1 - North Flip_16: -10508241579122140
+      Adventurer Sheet 1 - North Flip_30: -7573916364534789400
+      Adventurer Sheet 1 - North Flip_83: 8369008980626469549
+      Adventurer Sheet 1 - North Flip_48: -5631249727998813551
+      Adventurer Sheet 1 - North Flip_89: -9092528476172078671
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assignments/Programming/1ButtonGame/Scenes/Start Menu.unity
+    guid: 1815c273e3aa0624db0fbd0541ef7aef
+  - enabled: 1
+    path: Assets/Assignments/Programming/1ButtonGame/Scenes/Greybox Level.unity
+    guid: 67a3230ea4eaaa2478e94ffaa2822631
+  - enabled: 1
+    path: Assets/Assignments/Programming/1ButtonGame/Scenes/Level1.unity
+    guid: 9bcfe4daa6ba0d54897f49167b801ac5
   m_configObjects: {}

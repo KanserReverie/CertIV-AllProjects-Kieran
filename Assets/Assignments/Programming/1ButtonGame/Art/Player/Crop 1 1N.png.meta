@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: a50289a3376161348b970b1fbddabf1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4345099968389161963
+    second: Cropped 1_0
+  - first:
+      213: -567587997872560338
+    second: Cropped 1_1
+  - first:
+      213: -2160641061336435378
+    second: Cropped 1_2
+  - first:
+      213: 1090540958327335376
+    second: Cropped 1_3
+  - first:
+      213: 3239659205512444982
+    second: Cropped 1_4
+  - first:
+      213: 2295757581580696026
+    second: Cropped 1_5
+  - first:
+      213: -3760201014029948195
+    second: Cropped 1_6
+  - first:
+      213: 7961048542278721611
+    second: Cropped 1_7
+  - first:
+      213: -4473936867915590852
+    second: Cropped 1_8
+  - first:
+      213: -962543400539856190
+    second: Cropped 1_9
+  - first:
+      213: 1901628769239388985
+    second: Cropped 1_10
+  - first:
+      213: 6162808928742277721
+    second: Cropped 1_11
+  - first:
+      213: -7966520658496882916
+    second: Cropped 1_12
+  - first:
+      213: -1027180912230045589
+    second: Cropped 1_13
+  - first:
+      213: 801022570509496674
+    second: Cropped 1_14
+  - first:
+      213: -1164531325375537322
+    second: Cropped 1_15
+  - first:
+      213: 1077380427321874002
+    second: Cropped 1_16
+  - first:
+      213: -7703017874228864763
+    second: Cropped 1_17
+  - first:
+      213: -9219617682680103427
+    second: Cropped 1_18
+  - first:
+      213: -966316216521691253
+    second: Cropped 1_19
+  - first:
+      213: -7824286479636461759
+    second: Cropped 1_20
+  - first:
+      213: -9105737941363299315
+    second: Cropped 1_21
+  - first:
+      213: 6920486288084578740
+    second: Cropped 1_22
+  - first:
+      213: -8044250862741412182
+    second: Cropped 1_23
+  - first:
+      213: -8767480480781363076
+    second: Cropped 1_24
+  - first:
+      213: 9002085902809678923
+    second: Cropped 1_25
+  - first:
+      213: 3078804604453646127
+    second: Cropped 1_26
+  - first:
+      213: 6712444312932776439
+    second: Cropped 1_27
+  - first:
+      213: -865426249435402379
+    second: Cropped 1_28
+  - first:
+      213: -7539924467441361464
+    second: Cropped 1_29
+  - first:
+      213: -7517843034097098028
+    second: Cropped 1_30
+  - first:
+      213: -1023539425288587885
+    second: Cropped 1_31
+  - first:
+      213: -1217957527290987860
+    second: Cropped 1_32
+  - first:
+      213: -3202424260476789376
+    second: Cropped 1_33
+  - first:
+      213: -2571804046446046488
+    second: Cropped 1_34
+  - first:
+      213: -3409555778007870672
+    second: Cropped 1_35
+  - first:
+      213: -579366282552798810
+    second: Cropped 1_36
+  - first:
+      213: 3631697425026346299
+    second: Cropped 1_37
+  - first:
+      213: -5791049307127977120
+    second: Cropped 1_38
+  - first:
+      213: -129706679568414842
+    second: Cropped 1_39
+  - first:
+      213: -7377407687555273975
+    second: Cropped 1_40
+  - first:
+      213: -763896150587690064
+    second: Cropped 1_41
+  - first:
+      213: -6165085931482542931
+    second: Cropped 1_42
+  - first:
+      213: 955230419663987917
+    second: Cropped 1_43
+  - first:
+      213: 1295892155473378733
+    second: Cropped 1_44
+  - first:
+      213: 1813773528439191250
+    second: Cropped 1_45
+  - first:
+      213: 6355436192242715466
+    second: Cropped 1_46
+  - first:
+      213: 3887921037874557513
+    second: Cropped 1_47
+  - first:
+      213: 6793449360115644298
+    second: Cropped 1_48
+  - first:
+      213: 2824648682983010331
+    second: Cropped 1_49
+  - first:
+      213: -6685843764707643249
+    second: Cropped 1_50
+  - first:
+      213: -1430213376231891623
+    second: Cropped 1_51
+  - first:
+      213: 7645912342379881573
+    second: Cropped 1_52
+  - first:
+      213: -8771639773781367783
+    second: Cropped 1_53
+  - first:
+      213: -3862494685231021720
+    second: Cropped 1_54
+  - first:
+      213: 4269811568030210840
+    second: Cropped 1_55
+  - first:
+      213: -4180227523484699111
+    second: Cropped 1_56
+  - first:
+      213: 8176622894182261454
+    second: Cropped 1_57
+  - first:
+      213: 1956948137190136378
+    second: Cropped 1_58
+  - first:
+      213: -6382478271071377619
+    second: Cropped 1_59
+  - first:
+      213: -2269522732807321510
+    second: Cropped 1_60
+  - first:
+      213: -2007148989051566426
+    second: Cropped 1_61
+  - first:
+      213: 5288578999200592588
+    second: Cropped 1_62
+  - first:
+      213: 7143824205532552854
+    second: Cropped 1_63
+  - first:
+      213: 2862225135055234760
+    second: Cropped 1_64
+  - first:
+      213: -5126421150568499777
+    second: Cropped 1_65
+  - first:
+      213: -7010500079669989062
+    second: Cropped 1_66
+  - first:
+      213: 8707272156555692711
+    second: Cropped 1_67
+  - first:
+      213: 3578825330520318274
+    second: Cropped 1_68
+  - first:
+      213: -784529686604214590
+    second: Cropped 1_69
+  - first:
+      213: -2092693579881293637
+    second: Cropped 1_70
+  - first:
+      213: 8885210298472307294
+    second: Cropped 1_71
+  - first:
+      213: 5448916598675304276
+    second: Cropped 1_72
+  - first:
+      213: -83771201932963751
+    second: Cropped 1_73
+  - first:
+      213: -4429548515740028145
+    second: Cropped 1_74
+  - first:
+      213: -3650845736845150478
+    second: Cropped 1_75
+  - first:
+      213: 597178094135899183
+    second: Cropped 1_76
+  - first:
+      213: 3111843251530748589
+    second: Cropped 1_77
+  - first:
+      213: -4880218143450853659
+    second: Cropped 1_78
+  - first:
+      213: -7130385890485247310
+    second: Cropped 1_79
+  - first:
+      213: -3543987973598305835
+    second: Cropped 1_80
+  - first:
+      213: -5442841301280493575
+    second: Cropped 1_81
+  - first:
+      213: -397847869474891134
+    second: Cropped 1_82
+  - first:
+      213: -3458434916815839616
+    second: Cropped 1_83
+  - first:
+      213: 7865717895168273878
+    second: Cropped 1_84
+  - first:
+      213: -6171813781629229688
+    second: Cropped 1_85
+  - first:
+      213: 3166744475227276913
+    second: Cropped 1_86
+  - first:
+      213: -3438998170401932124
+    second: Cropped 1_87
+  - first:
+      213: 437175627794521837
+    second: Cropped 1_88
+  - first:
+      213: 7172736304722074939
+    second: Cropped 1_89
+  - first:
+      213: -8288626453577000535
+    second: Cropped 1_90
+  - first:
+      213: 4423926316067243928
+    second: Cropped 1_91
+  - first:
+      213: 8234446438636209081
+    second: Cropped 1_92
+  - first:
+      213: -401504345507163774
+    second: Cropped 1_93
+  - first:
+      213: 8965125638536942642
+    second: Cropped 1_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cropped 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 408
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a5616665ec4c30800000000000000
+      internalID: 4345099968389161963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 408
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e70029b58f18f0800000000000000
+      internalID: -567587997872560338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 408
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e453bebf66cd302e0800000000000000
+      internalID: -2160641061336435378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 408
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96d124931622f00800000000000000
+      internalID: 1090540958327335376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb4e902e495fc20800000000000000
+      internalID: 3239659205512444982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f6846b5b2cdf10800000000000000
+      internalID: 2295757581580696026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda6ea2a91511dbc0800000000000000
+      internalID: -3760201014029948195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 408
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402a2248735b7e60800000000000000
+      internalID: 7961048542278721611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331e506f1269e1c0800000000000000
+      internalID: -4473936867915590852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ece180eb54a2f0800000000000000
+      internalID: -962543400539856190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335d255a41f36a10800000000000000
+      internalID: 1901628769239388985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9520a489112b68550800000000000000
+      internalID: 6162808928742277721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177b766bab317190800000000000000
+      internalID: -7966520658496882916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68677e0768beb1f0800000000000000
+      internalID: -1027180912230045589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261f94ca8cdcd1b00800000000000000
+      internalID: 801022570509496674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 371
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1d25fde0c6dfe0800000000000000
+      internalID: -1164531325375537322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2569a7a5acf93fe00800000000000000
+      internalID: 1077380427321874002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 342
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099a144e02691590800000000000000
+      internalID: -7703017874228864763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 342
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd31f2b0965d0080800000000000000
+      internalID: -9219617682680103427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 343
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f66855584f692f0800000000000000
+      internalID: -966316216521691253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1478060d6ec8a6390800000000000000
+      internalID: -7824286479636461759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 340
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6e3b269be1a180800000000000000
+      internalID: -9105737941363299315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 338
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b13e3adc918a0060800000000000000
+      internalID: 6920486288084578740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62b2ae5741d5090800000000000000
+      internalID: -8044250862741412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781bdf64f6a35680800000000000000
+      internalID: -8767480480781363076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 297
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c58afe65ddec70800000000000000
+      internalID: 9002085902809678923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 297
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2feb4db97c1aba20800000000000000
+      internalID: 3078804604453646127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 297
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f2fed984672d50800000000000000
+      internalID: 6712444312932776439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57faa1f49636df3f0800000000000000
+      internalID: -865426249435402379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd91e425aecc5790800000000000000
+      internalID: -7539924467441361464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 296
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d26f7b77914ba790800000000000000
+      internalID: -7517843034097098028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 296
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395f01ec058abc1f0800000000000000
+      internalID: -1023539425288587885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 259
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabe4af412f81fe0800000000000000
+      internalID: -1217957527290987860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 260
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d103e2a14be83d0800000000000000
+      internalID: -3202424260476789376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2dba388dd1f4cd0800000000000000
+      internalID: -2571804046446046488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 264
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d5f1a513dea0d0800000000000000
+      internalID: -3409555778007870672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 266
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a11a958f6da5f7f0800000000000000
+      internalID: -579366282552798810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 266
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d65660191666230800000000000000
+      internalID: 3631697425026346299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6dd3665f02afa0800000000000000
+      internalID: -5791049307127977120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687445f4670333ef0800000000000000
+      internalID: -129706679568414842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b280c9bce2e9990800000000000000
+      internalID: -7377407687555273975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bee29f781665f0800000000000000
+      internalID: -763896150587690064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 223
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac89346207317aa0800000000000000
+      internalID: -6165085931482542931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc428b27109a14d00800000000000000
+      internalID: 955230419663987917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 223
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb43aac0febf110800000000000000
+      internalID: 1295892155473378733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 223
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ff911a61db2910800000000000000
+      internalID: 1813773528439191250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc9475b8b033850800000000000000
+      internalID: 6355436192242715466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942f749b59ba4f530800000000000000
+      internalID: 3887921037874557513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a873c45233e274e50800000000000000
+      internalID: 6793449360115644298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 186
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103a74f20b233720800000000000000
+      internalID: 2824648682983010331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 186
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8037d4e48c1733a0800000000000000
+      internalID: -6685843764707643249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 186
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5092511, y: 0.57392156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d9fac038cd62ce0800000000000000
+      internalID: -1430213376231891623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 186
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5719993, y: 0.5830092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e35ff3ccbb1a60800000000000000
+      internalID: 7645912342379881573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e2129910e44680800000000000000
+      internalID: -8771639773781367783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86188f35c89a56ac0800000000000000
+      internalID: -3862494685231021720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 48
+        height: 23
+      alignment: 9
+      pivot: {x: 0.428, y: 0.594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5b4aaffa614b30800000000000000
+      internalID: 4269811568030210840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6241107, y: 0.6245832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91632661739dcf5c0800000000000000
+      internalID: -4180227523484699111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6367228, y: 0.601326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec26f0e5333397170800000000000000
+      internalID: 8176622894182261454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5762661, y: 0.5648262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a941166f9782b10800000000000000
+      internalID: 1956948137190136378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27242a04d1ec67a0800000000000000
+      internalID: -6382478271071377619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58885559190180e0800000000000000
+      internalID: -2269522732807321510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60c48f0ac2524e0800000000000000
+      internalID: -2007148989051566426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc231f5649ec46940800000000000000
+      internalID: 5288578999200592588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_63
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 149
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eda9ce346f32360800000000000000
+      internalID: 7143824205532552854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6692a789aa8b720800000000000000
+      internalID: 2862225135055234760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b05fdf1b4bd8b0800000000000000
+      internalID: -5126421150568499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313c6d1253b5be90800000000000000
+      internalID: -7010500079669989062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac62ea4e176d870800000000000000
+      internalID: 8707272156555692711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24165da3daa8aa130800000000000000
+      internalID: 3578825330520318274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce053a186acc15f0800000000000000
+      internalID: -784529686604214590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 112
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85f63d64245f2e0800000000000000
+      internalID: -2092693579881293637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 112
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a951bc0bb9e4b70800000000000000
+      internalID: 8885210298472307294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f65c2e6c07e9b40800000000000000
+      internalID: 5448916598675304276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d062298266def0800000000000000
+      internalID: -83771201932963751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f4fbf7151782c0800000000000000
+      internalID: -4429548515740028145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 75
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f678953527955dc0800000000000000
+      internalID: -3650845736845150478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 75
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247d98005a994800800000000000000
+      internalID: 597178094135899183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_77
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2df2433fc7f2b20800000000000000
+      internalID: 3111843251530748589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 75
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee023d747bf54cb0800000000000000
+      internalID: -4880218143450853659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 77
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26b2e9fc7cb0d90800000000000000
+      internalID: -7130385890485247310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1aa6107b931dec0800000000000000
+      internalID: -3543987973598305835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 39
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe9548ca42774b0800000000000000
+      internalID: -5442841301280493575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9d49787f8a7af0800000000000000
+      internalID: -397847869474891134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e526844cb2100d0800000000000000
+      internalID: -3458434916815839616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd20f450c4a82d60800000000000000
+      internalID: 7865717895168273878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 37
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852126b010595aa0800000000000000
+      internalID: -6171813781629229688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 38
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764a54725982fb20800000000000000
+      internalID: 3166744475227276913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 41
+        width: 24
+        height: 22
+      alignment: 9
+      pivot: {x: 0.36059317, y: 0.58584493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac79f572693640d0800000000000000
+      internalID: -3438998170401932124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.38369462, y: 0.61896116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee962fcae8211600800000000000000
+      internalID: 437175627794521837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.34079072, y: 0.5976022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd1869aadaa8360800000000000000
+      internalID: 7172736304722074939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.42733237, y: 0.63017875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a913aec722e8fc80800000000000000
+      internalID: -8288626453577000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c0b5ab81f46d30800000000000000
+      internalID: 4423926316067243928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b344e07861a64270800000000000000
+      internalID: 8234446438636209081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281154ecce19d6af0800000000000000
+      internalID: -401504345507163774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cropped 1_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ddbbd4468a6c70800000000000000
+      internalID: 8965125638536942642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cropped 1_7: 7961048542278721611
+      Cropped 1_40: -7377407687555273975
+      Cropped 1_28: -865426249435402379
+      Cropped 1_59: -6382478271071377619
+      Cropped 1_31: -1023539425288587885
+      Cropped 1_38: -5791049307127977120
+      Cropped 1_93: -401504345507163774
+      Cropped 1_69: -784529686604214590
+      Cropped 1_90: -8288626453577000535
+      Cropped 1_43: 955230419663987917
+      Cropped 1_19: -966316216521691253
+      Cropped 1_22: 6920486288084578740
+      Cropped 1_48: 6793449360115644298
+      Cropped 1_58: 1956948137190136378
+      Cropped 1_88: 437175627794521837
+      Cropped 1_56: -4180227523484699111
+      Cropped 1_26: 3078804604453646127
+      Cropped 1_52: 7645912342379881573
+      Cropped 1_91: 4423926316067243928
+      Cropped 1_49: 2824648682983010331
+      Cropped 1_86: 3166744475227276913
+      Cropped 1_66: -7010500079669989062
+      Cropped 1_14: 801022570509496674
+      Cropped 1_62: 5288578999200592588
+      Cropped 1_84: 7865717895168273878
+      Cropped 1_50: -6685843764707643249
+      Cropped 1_44: 1295892155473378733
+      Cropped 1_32: -1217957527290987860
+      Cropped 1_33: -3202424260476789376
+      Cropped 1_83: -3458434916815839616
+      Cropped 1_70: -2092693579881293637
+      Cropped 1_76: 597178094135899183
+      Cropped 1_82: -397847869474891134
+      Cropped 1_2: -2160641061336435378
+      Cropped 1_12: -7966520658496882916
+      Cropped 1_17: -7703017874228864763
+      Cropped 1_72: 5448916598675304276
+      Cropped 1_64: 2862225135055234760
+      Cropped 1_27: 6712444312932776439
+      Cropped 1_60: -2269522732807321510
+      Cropped 1_4: 3239659205512444982
+      Cropped 1_39: -129706679568414842
+      Cropped 1_8: -4473936867915590852
+      Cropped 1_24: -8767480480781363076
+      Cropped 1_53: -8771639773781367783
+      Cropped 1_21: -9105737941363299315
+      Cropped 1_71: 8885210298472307294
+      Cropped 1_0: 4345099968389161963
+      Cropped 1_51: -1430213376231891623
+      Cropped 1_80: -3543987973598305835
+      Cropped 1_10: 1901628769239388985
+      Cropped 1_77: 3111843251530748589
+      Cropped 1_87: -3438998170401932124
+      Cropped 1_46: 6355436192242715466
+      Cropped 1_65: -5126421150568499777
+      Cropped 1_67: 8707272156555692711
+      Cropped 1_81: -5442841301280493575
+      Cropped 1_85: -6171813781629229688
+      Cropped 1_75: -3650845736845150478
+      Cropped 1_1: -567587997872560338
+      Cropped 1_29: -7539924467441361464
+      Cropped 1_23: -8044250862741412182
+      Cropped 1_47: 3887921037874557513
+      Cropped 1_3: 1090540958327335376
+      Cropped 1_6: -3760201014029948195
+      Cropped 1_20: -7824286479636461759
+      Cropped 1_61: -2007148989051566426
+      Cropped 1_34: -2571804046446046488
+      Cropped 1_74: -4429548515740028145
+      Cropped 1_42: -6165085931482542931
+      Cropped 1_11: 6162808928742277721
+      Cropped 1_15: -1164531325375537322
+      Cropped 1_92: 8234446438636209081
+      Cropped 1_36: -579366282552798810
+      Cropped 1_78: -4880218143450853659
+      Cropped 1_25: 9002085902809678923
+      Cropped 1_54: -3862494685231021720
+      Cropped 1_73: -83771201932963751
+      Cropped 1_63: 7143824205532552854
+      Cropped 1_79: -7130385890485247310
+      Cropped 1_37: 3631697425026346299
+      Cropped 1_94: 8965125638536942642
+      Cropped 1_13: -1027180912230045589
+      Cropped 1_68: 3578825330520318274
+      Cropped 1_55: 4269811568030210840
+      Cropped 1_5: 2295757581580696026
+      Cropped 1_57: 8176622894182261454
+      Cropped 1_9: -962543400539856190
+      Cropped 1_89: 7172736304722074939
+      Cropped 1_41: -763896150587690064
+      Cropped 1_45: 1813773528439191250
+      Cropped 1_16: 1077380427321874002
+      Cropped 1_35: -3409555778007870672
+      Cropped 1_30: -7517843034097098028
+      Cropped 1_18: -9219617682680103427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

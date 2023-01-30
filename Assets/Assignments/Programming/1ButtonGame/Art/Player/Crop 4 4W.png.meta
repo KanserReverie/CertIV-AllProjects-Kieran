@@ -1,0 +1,2971 @@
+fileFormatVersion: 2
+guid: 1e7e6215a05fd68458da9bb0a8b3a53d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5709930099141254262
+    second: Crop 3 W_0
+  - first:
+      213: 6500149730768996882
+    second: Crop 3 W_1
+  - first:
+      213: -8621289101135480236
+    second: Crop 3 W_2
+  - first:
+      213: 3889940398067855176
+    second: Crop 3 W_3
+  - first:
+      213: -6457009319418412358
+    second: Crop 3 W_4
+  - first:
+      213: 1743548874427289529
+    second: Crop 3 W_5
+  - first:
+      213: 483821644266516330
+    second: Crop 3 W_6
+  - first:
+      213: -3945090609523241640
+    second: Crop 3 W_7
+  - first:
+      213: -7372640248744361150
+    second: Crop 3 W_8
+  - first:
+      213: -2068333503207836514
+    second: Crop 3 W_9
+  - first:
+      213: -4668673871646931358
+    second: Crop 3 W_10
+  - first:
+      213: -2321350211303350025
+    second: Crop 3 W_11
+  - first:
+      213: 3726865267351284738
+    second: Crop 3 W_12
+  - first:
+      213: 4795937257233443816
+    second: Crop 3 W_13
+  - first:
+      213: -3092034031934797288
+    second: Crop 3 W_14
+  - first:
+      213: 231768265018259054
+    second: Crop 3 W_15
+  - first:
+      213: 4404206919218633057
+    second: Crop 3 W_16
+  - first:
+      213: 7464531500454636923
+    second: Crop 3 W_17
+  - first:
+      213: -7309333223368718192
+    second: Crop 3 W_18
+  - first:
+      213: -4181472127013925675
+    second: Crop 3 W_19
+  - first:
+      213: -2398319067801940779
+    second: Crop 3 W_20
+  - first:
+      213: 1150331012680758960
+    second: Crop 3 W_21
+  - first:
+      213: -3637838851392921253
+    second: Crop 3 W_22
+  - first:
+      213: -4765574116171925502
+    second: Crop 3 W_23
+  - first:
+      213: 5498710437763662516
+    second: Crop 3 W_24
+  - first:
+      213: -1807695948644632629
+    second: Crop 3 W_25
+  - first:
+      213: -352113578898682289
+    second: Crop 3 W_26
+  - first:
+      213: 8889662103398569898
+    second: Crop 3 W_27
+  - first:
+      213: -2148295372418807590
+    second: Crop 3 W_28
+  - first:
+      213: 6344440246695922512
+    second: Crop 3 W_29
+  - first:
+      213: 2229410842565411754
+    second: Crop 3 W_30
+  - first:
+      213: -2615983642616719233
+    second: Crop 3 W_31
+  - first:
+      213: -7038268745931411119
+    second: Crop 3 W_32
+  - first:
+      213: -2065719077147870111
+    second: Crop 3 W_33
+  - first:
+      213: -7386486901304077445
+    second: Crop 3 W_34
+  - first:
+      213: -1011164872545009535
+    second: Crop 3 W_35
+  - first:
+      213: 3001043405493954473
+    second: Crop 3 W_36
+  - first:
+      213: 171918578052213615
+    second: Crop 3 W_37
+  - first:
+      213: -4014689773150275531
+    second: Crop 3 W_38
+  - first:
+      213: -1077578338678985488
+    second: Crop 3 W_39
+  - first:
+      213: 4562384134850615641
+    second: Crop 3 W_40
+  - first:
+      213: -1218676335166638446
+    second: Crop 3 W_41
+  - first:
+      213: -1042977217145344475
+    second: Crop 3 W_42
+  - first:
+      213: -5667441594977744051
+    second: Crop 3 W_43
+  - first:
+      213: 6557907188979096526
+    second: Crop 3 W_44
+  - first:
+      213: -4889691913304302718
+    second: Crop 3 W_45
+  - first:
+      213: 6561036749839872590
+    second: Crop 3 W_46
+  - first:
+      213: 5851128111445599380
+    second: Crop 3 W_47
+  - first:
+      213: 5607275361183981767
+    second: Crop 3 W_48
+  - first:
+      213: 5999651044644599280
+    second: Crop 3 W_49
+  - first:
+      213: -8265567892798989500
+    second: Crop 3 W_50
+  - first:
+      213: -2501122469443469573
+    second: Crop 3 W_51
+  - first:
+      213: -4415111547672270662
+    second: Crop 3 W_52
+  - first:
+      213: -8090606547117152149
+    second: Crop 3 W_53
+  - first:
+      213: 1748597700296357898
+    second: Crop 3 W_54
+  - first:
+      213: -465240301495428243
+    second: Crop 3 W_55
+  - first:
+      213: 7124934395727103680
+    second: Crop 3 W_56
+  - first:
+      213: -4071263661316437619
+    second: Crop 3 W_57
+  - first:
+      213: 6631791473873492606
+    second: Crop 3 W_58
+  - first:
+      213: 1249094466821474142
+    second: Crop 3 W_59
+  - first:
+      213: 3687128683219773709
+    second: Crop 3 W_60
+  - first:
+      213: 850088636534335301
+    second: Crop 3 W_61
+  - first:
+      213: -7197150155624020586
+    second: Crop 3 W_62
+  - first:
+      213: 8143212848829834794
+    second: Crop 3 W_63
+  - first:
+      213: -6826599832965509898
+    second: Crop 3 W_64
+  - first:
+      213: -5939064640141782683
+    second: Crop 3 W_65
+  - first:
+      213: -5774107438268873742
+    second: Crop 3 W_66
+  - first:
+      213: -5245228079032604082
+    second: Crop 3 W_67
+  - first:
+      213: -4077688075567830759
+    second: Crop 3 W_68
+  - first:
+      213: 8231196252920138584
+    second: Crop 3 W_69
+  - first:
+      213: 5130187705152512572
+    second: Crop 3 W_70
+  - first:
+      213: 4577310840798196010
+    second: Crop 3 W_71
+  - first:
+      213: 7060948051427497586
+    second: Crop 3 W_72
+  - first:
+      213: -7702243091004390193
+    second: Crop 3 W_73
+  - first:
+      213: 4243575835420707173
+    second: Crop 3 W_74
+  - first:
+      213: 6724163996855627298
+    second: Crop 3 W_75
+  - first:
+      213: -6015217050657608488
+    second: Crop 3 W_76
+  - first:
+      213: 7101593731414007515
+    second: Crop 3 W_77
+  - first:
+      213: 2379953654170167220
+    second: Crop 3 W_78
+  - first:
+      213: -2952966699630492323
+    second: Crop 3 W_79
+  - first:
+      213: -7296390760565402424
+    second: Crop 3 W_80
+  - first:
+      213: 582213208477747395
+    second: Crop 3 W_81
+  - first:
+      213: -8288947368929586488
+    second: Crop 3 W_82
+  - first:
+      213: -2314774144800289599
+    second: Crop 3 W_83
+  - first:
+      213: -7932339975645623085
+    second: Crop 3 W_84
+  - first:
+      213: 1837731211443098809
+    second: Crop 3 W_85
+  - first:
+      213: 4969283009180992170
+    second: Crop 3 W_86
+  - first:
+      213: -3592789709079328716
+    second: Crop 3 W_87
+  - first:
+      213: 6779531284509659428
+    second: Crop 3 W_88
+  - first:
+      213: -968439886567842813
+    second: Crop 3 W_89
+  - first:
+      213: -8419112115057433666
+    second: Crop 3 W_90
+  - first:
+      213: 5018442186878988837
+    second: Crop 3 W_91
+  - first:
+      213: 5762558878037367476
+    second: Crop 3 W_92
+  - first:
+      213: 3759986039416429919
+    second: Crop 3 W_93
+  - first:
+      213: 5962843762772795904
+    second: Crop 3 W_94
+  - first:
+      213: 162550602497282016
+    second: Crop 3 W_95
+  - first:
+      213: -1892926180312339119
+    second: Crop 3 W_96
+  - first:
+      213: -474666073260063071
+    second: Crop 3 W_97
+  - first:
+      213: -4993427733724398443
+    second: Crop 3 W_98
+  - first:
+      213: 8334364970661664285
+    second: Crop 3 W_99
+  - first:
+      213: 2724305300129540088
+    second: Crop 3 W_100
+  - first:
+      213: 182905856527736529
+    second: Crop 3 W_101
+  - first:
+      213: 4773989796345413941
+    second: Crop 3 W_102
+  - first:
+      213: -7888103434904050274
+    second: Crop 3 W_103
+  - first:
+      213: 5435810151455627918
+    second: Crop 3 W_104
+  - first:
+      213: -4430535217750414073
+    second: Crop 3 W_105
+  - first:
+      213: -3581288204528297322
+    second: Crop 3 W_106
+  - first:
+      213: -3044864553535478588
+    second: Crop 3 W_107
+  - first:
+      213: 5425203319126903253
+    second: Crop 3 W_108
+  - first:
+      213: -1340377540641647817
+    second: Crop 3 W_109
+  - first:
+      213: -5135363390620818706
+    second: Crop 3 W_110
+  - first:
+      213: 3139781980300251125
+    second: Crop 3 W_111
+  - first:
+      213: 8445916718244232036
+    second: Crop 3 W_112
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crop 3 W_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 315
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ef5cc3d042c0b0800000000000000
+      internalID: -5709930099141254262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4659adbb253a50800000000000000
+      internalID: 6500149730768996882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 320
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7fd47d370b5880800000000000000
+      internalID: -8621289101135480236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 309
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa648ae28dbf530800000000000000
+      internalID: 3889940398067855176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 321
+        width: 26
+        height: 15
+      alignment: 9
+      pivot: {x: 0.54530275, y: 0.7752543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2cda41c381466a0800000000000000
+      internalID: -6457009319418412358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 309
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf45cca674523810800000000000000
+      internalID: 1743548874427289529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 315
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa629d831e6b600800000000000000
+      internalID: 483821644266516330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 302
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d43ac1ef83049c0800000000000000
+      internalID: -3945090609523241640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 316
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24348d471ce1fa990800000000000000
+      internalID: -7372640248744361150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 315
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f14823adcb43e0800000000000000
+      internalID: -2068333503207836514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 316
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266465479d9853fb0800000000000000
+      internalID: -4668673871646931358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 319
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f06cf72848e8cfd0800000000000000
+      internalID: -2321350211303350025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 313
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce632073c78b330800000000000000
+      internalID: 3726865267351284738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 302
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe57686879e8240800000000000000
+      internalID: 4795937257233443816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 308
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8b152e63e615d0800000000000000
+      internalID: -3092034031934797288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 265
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663f925208673300800000000000000
+      internalID: 231768265018259054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 266
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691859cbd2ee1d30800000000000000
+      internalID: 4404206919218633057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 264
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7def43d9d7579760800000000000000
+      internalID: 7464531500454636923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098852ce828009a90800000000000000
+      internalID: -7309333223368718192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 271
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc432f314d68f5c0800000000000000
+      internalID: -4181472127013925675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 259
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8e91c38577bed0800000000000000
+      internalID: -2398319067801940779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 265
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6542863, y: 0.39971584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b3f816fbc6ff00800000000000000
+      internalID: 1150331012680758960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 270
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512c98b6dcc38dc0800000000000000
+      internalID: -3637838851392921253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 265
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b6c627974dddb0800000000000000
+      internalID: -4765574116171925502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c2ad72085f4c40800000000000000
+      internalID: 5498710437763662516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 263
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7bf1fbc16c9e6e0800000000000000
+      internalID: -1807695948644632629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 269
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0729c09a0d1bf0800000000000000
+      internalID: -352113578898682289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 265
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d256659c6e5b70800000000000000
+      internalID: 8889662103398569898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 265
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad88c5eadb8bf22e0800000000000000
+      internalID: -2148295372418807590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b80034acafb0850800000000000000
+      internalID: 6344440246695922512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 216
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa30481795570fe10800000000000000
+      internalID: 2229410842565411754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781993bcb822bbd0800000000000000
+      internalID: -2615983642616719233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 218
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151360daddb035e90800000000000000
+      internalID: -7038268745931411119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 205
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7ad8a1771553e0800000000000000
+      internalID: -2065719077147870111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 221
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d1bd6c4ded7990800000000000000
+      internalID: -7386486901304077445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 210
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800a92e7ee97f1f0800000000000000
+      internalID: -1011164872545009535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 215
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7eefbb319d5a920800000000000000
+      internalID: 3001043405493954473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 219
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba71f2907c26200800000000000000
+      internalID: 171918578052213615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 217
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fbfb0ce4f848c0800000000000000
+      internalID: -4014689773150275531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 221
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2261d53cab01f0800000000000000
+      internalID: -1077578338678985488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_40
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 213
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95916a6b238d05f30800000000000000
+      internalID: 4562384134850615641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_41
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 219
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b73a7454661fe0800000000000000
+      internalID: -1218676335166638446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 215
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee9373fb99681f0800000000000000
+      internalID: -1042977217145344475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_43
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 215
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b041295e33951b0800000000000000
+      internalID: -5667441594977744051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_44
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 215
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5415d7dd520b50800000000000000
+      internalID: 6557907188979096526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 163
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b956e8c13542cb0800000000000000
+      internalID: -4889691913304302718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423d70892c7d0b50800000000000000
+      internalID: 6561036749839872590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 164
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494640a4402633150800000000000000
+      internalID: 5851128111445599380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 155
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0eb2d7b3b01dd40800000000000000
+      internalID: 5607275361183981767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 170
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b75c66da034350800000000000000
+      internalID: 5999651044644599280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 160
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b97da5bcdca4d80800000000000000
+      internalID: -8265567892798989500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 165
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef2159d5a3a4dd0800000000000000
+      internalID: -2501122469443469573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_52
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e44d807f5ab2c0800000000000000
+      internalID: -4415111547672270662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 166
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e1a5163468bf80800000000000000
+      internalID: -8090606547117152149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ba3d0854444810800000000000000
+      internalID: 1748597700296357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 158
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5b2629622b89f0800000000000000
+      internalID: -465240301495428243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 166
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c649551ad0e260800000000000000
+      internalID: 7124934395727103680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_57
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 166
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8907404547ff77c0800000000000000
+      internalID: -4071263661316437619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 166
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a91b0753bd80c50800000000000000
+      internalID: 6631791473873492606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_59
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 166
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ccc1bccca55110800000000000000
+      internalID: 1249094466821474142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_60
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 152
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e77c80005b2330800000000000000
+      internalID: 3687128683219773709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 115
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a9386c1f1ccb00800000000000000
+      internalID: 850088636534335301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 115
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69502eac0169e1c90800000000000000
+      internalID: -7197150155624020586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_63
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2626e001f0820170800000000000000
+      internalID: 8143212848829834794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 115
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc895cee9b0341a0800000000000000
+      internalID: -6826599832965509898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 116
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56114422d24349da0800000000000000
+      internalID: -5939064640141782683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30b0f90ef3edfa0800000000000000
+      internalID: -5774107438268873742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 118
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6b5f3ad43537b0800000000000000
+      internalID: -5245228079032604082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 121
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: 0.19368026, y: 0.5345971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919eeeebc442967c0800000000000000
+      internalID: -4077688075567830759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 121
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc4db91651b3270800000000000000
+      internalID: 8231196252920138584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3221b47986123740800000000000000
+      internalID: 5130187705152512572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 100
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21325445ffd58f30800000000000000
+      internalID: 4577310840798196010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27692de97d68df160800000000000000
+      internalID: 7060948051427497586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_73
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 108
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40afa87b22c1590800000000000000
+      internalID: -7702243091004390193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_74
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 116
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cea72db534ea30800000000000000
+      internalID: 4243575835420707173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_75
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 115
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eec0c6787015d50800000000000000
+      internalID: 6724163996855627298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_76
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 117
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2ea066f7a58ca0800000000000000
+      internalID: -6015217050657608488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_77
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 104
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde92147fdded8260800000000000000
+      internalID: 7101593731414007515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_78
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a4ba2d3b470120800000000000000
+      internalID: 2379953654170167220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 60
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5587f2ae64f407d0800000000000000
+      internalID: -2952966699630492323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 68
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49e0ed2430eba90800000000000000
+      internalID: -7296390760565402424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_81
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 63
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84bd214df641800800000000000000
+      internalID: 582213208477747395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_82
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 54
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21b01e84eb7fc80800000000000000
+      internalID: -8288947368929586488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc8be3fd2540efd0800000000000000
+      internalID: -2314774144800289599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc030ac1daaae190800000000000000
+      internalID: -7932339975645623085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d6b2dccee08910800000000000000
+      internalID: 1837731211443098809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20e96819076f440800000000000000
+      internalID: 4969283009180992170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c5a58bc8d32ec0800000000000000
+      internalID: -3592789709079328716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_88
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 34
+        height: 14
+      alignment: 9
+      pivot: {x: -0.18119408, y: 1.5453731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42198d4a8cbb51e50800000000000000
+      internalID: 6779531284509659428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_89
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cddcedd096f82f0800000000000000
+      internalID: -968439886567842813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 58
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb360d1432e492b80800000000000000
+      internalID: -8419112115057433666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b1c2849615a540800000000000000
+      internalID: 5018442186878988837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_92
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 65
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad0baa4c8b8ff40800000000000000
+      internalID: 5762558878037367476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_93
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 63
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d18dfa1672e2430800000000000000
+      internalID: 3759986039416429919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 65
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e93b4fc640c250800000000000000
+      internalID: 5962843762772795904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 55
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef40e769ee714200800000000000000
+      internalID: 162550602497282016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_96
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 51
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d227c0ba9fab5e0800000000000000
+      internalID: -1892926180312339119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68764a8b5a969f0800000000000000
+      internalID: -474666073260063071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf5c7bee7c3bab0800000000000000
+      internalID: -4993427733724398443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_99
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165fb098cc99a370800000000000000
+      internalID: 8334364970661664285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76fe98c3daec520800000000000000
+      internalID: 2724305300129540088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_101
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de9cad48efc98200800000000000000
+      internalID: 182905856527736529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53102841d6e904240800000000000000
+      internalID: 4773989796345413941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_103
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 7
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95610b08b3d78290800000000000000
+      internalID: -7888103434904050274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_104
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 13
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a99f75880ef6b40800000000000000
+      internalID: 5435810151455627918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_105
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de02581b39382c0800000000000000
+      internalID: -4430535217750414073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_106
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 17
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5bca3a55bc4ec0800000000000000
+      internalID: -3581288204528297322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_107
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 15
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4e65922d77eb5d0800000000000000
+      internalID: -3044864553535478588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 17
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d944debca13a4b40800000000000000
+      internalID: 5425203319126903253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 19
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73394297ab5066de0800000000000000
+      internalID: -1340377540641647817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_110
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 15
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2208d54368bb8b0800000000000000
+      internalID: -5135363390620818706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_111
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff08f7631fb29b20800000000000000
+      internalID: 3139781980300251125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 3 W_112
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 8
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfa71c18ce53570800000000000000
+      internalID: 8445916718244232036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crop 3 W_102: 4773989796345413941
+      Crop 3 W_90: -8419112115057433666
+      Crop 3 W_94: 5962843762772795904
+      Crop 3 W_46: 6561036749839872590
+      Crop 3 W_72: 7060948051427497586
+      Crop 3 W_38: -4014689773150275531
+      Crop 3 W_50: -8265567892798989500
+      Crop 3 W_103: -7888103434904050274
+      Crop 3 W_24: 5498710437763662516
+      Crop 3 W_88: 6779531284509659428
+      Crop 3 W_15: 231768265018259054
+      Crop 3 W_78: 2379953654170167220
+      Crop 3 W_28: -2148295372418807590
+      Crop 3 W_63: 8143212848829834794
+      Crop 3 W_56: 7124934395727103680
+      Crop 3 W_108: 5425203319126903253
+      Crop 3 W_104: 5435810151455627918
+      Crop 3 W_4: -6457009319418412358
+      Crop 3 W_82: -8288947368929586488
+      Crop 3 W_96: -1892926180312339119
+      Crop 3 W_105: -4430535217750414073
+      Crop 3 W_5: 1743548874427289529
+      Crop 3 W_0: -5709930099141254262
+      Crop 3 W_14: -3092034031934797288
+      Crop 3 W_76: -6015217050657608488
+      Crop 3 W_19: -4181472127013925675
+      Crop 3 W_57: -4071263661316437619
+      Crop 3 W_86: 4969283009180992170
+      Crop 3 W_98: -4993427733724398443
+      Crop 3 W_21: 1150331012680758960
+      Crop 3 W_33: -2065719077147870111
+      Crop 3 W_44: 6557907188979096526
+      Crop 3 W_61: 850088636534335301
+      Crop 3 W_16: 4404206919218633057
+      Crop 3 W_26: -352113578898682289
+      Crop 3 W_89: -968439886567842813
+      Crop 3 W_18: -7309333223368718192
+      Crop 3 W_49: 5999651044644599280
+      Crop 3 W_2: -8621289101135480236
+      Crop 3 W_87: -3592789709079328716
+      Crop 3 W_77: 7101593731414007515
+      Crop 3 W_30: 2229410842565411754
+      Crop 3 W_70: 5130187705152512572
+      Crop 3 W_45: -4889691913304302718
+      Crop 3 W_7: -3945090609523241640
+      Crop 3 W_64: -6826599832965509898
+      Crop 3 W_39: -1077578338678985488
+      Crop 3 W_84: -7932339975645623085
+      Crop 3 W_48: 5607275361183981767
+      Crop 3 W_27: 8889662103398569898
+      Crop 3 W_62: -7197150155624020586
+      Crop 3 W_65: -5939064640141782683
+      Crop 3 W_79: -2952966699630492323
+      Crop 3 W_42: -1042977217145344475
+      Crop 3 W_55: -465240301495428243
+      Crop 3 W_1: 6500149730768996882
+      Crop 3 W_66: -5774107438268873742
+      Crop 3 W_80: -7296390760565402424
+      Crop 3 W_40: 4562384134850615641
+      Crop 3 W_29: 6344440246695922512
+      Crop 3 W_81: 582213208477747395
+      Crop 3 W_52: -4415111547672270662
+      Crop 3 W_83: -2314774144800289599
+      Crop 3 W_60: 3687128683219773709
+      Crop 3 W_20: -2398319067801940779
+      Crop 3 W_32: -7038268745931411119
+      Crop 3 W_69: 8231196252920138584
+      Crop 3 W_71: 4577310840798196010
+      Crop 3 W_99: 8334364970661664285
+      Crop 3 W_25: -1807695948644632629
+      Crop 3 W_93: 3759986039416429919
+      Crop 3 W_97: -474666073260063071
+      Crop 3 W_3: 3889940398067855176
+      Crop 3 W_109: -1340377540641647817
+      Crop 3 W_31: -2615983642616719233
+      Crop 3 W_47: 5851128111445599380
+      Crop 3 W_95: 162550602497282016
+      Crop 3 W_54: 1748597700296357898
+      Crop 3 W_6: 483821644266516330
+      Crop 3 W_13: 4795937257233443816
+      Crop 3 W_23: -4765574116171925502
+      Crop 3 W_8: -7372640248744361150
+      Crop 3 W_111: 3139781980300251125
+      Crop 3 W_75: 6724163996855627298
+      Crop 3 W_12: 3726865267351284738
+      Crop 3 W_22: -3637838851392921253
+      Crop 3 W_91: 5018442186878988837
+      Crop 3 W_58: 6631791473873492606
+      Crop 3 W_37: 171918578052213615
+      Crop 3 W_100: 2724305300129540088
+      Crop 3 W_41: -1218676335166638446
+      Crop 3 W_51: -2501122469443469573
+      Crop 3 W_106: -3581288204528297322
+      Crop 3 W_43: -5667441594977744051
+      Crop 3 W_53: -8090606547117152149
+      Crop 3 W_107: -3044864553535478588
+      Crop 3 W_34: -7386486901304077445
+      Crop 3 W_92: 5762558878037367476
+      Crop 3 W_36: 3001043405493954473
+      Crop 3 W_35: -1011164872545009535
+      Crop 3 W_10: -4668673871646931358
+      Crop 3 W_112: 8445916718244232036
+      Crop 3 W_9: -2068333503207836514
+      Crop 3 W_11: -2321350211303350025
+      Crop 3 W_74: 4243575835420707173
+      Crop 3 W_67: -5245228079032604082
+      Crop 3 W_59: 1249094466821474142
+      Crop 3 W_73: -7702243091004390193
+      Crop 3 W_101: 182905856527736529
+      Crop 3 W_17: 7464531500454636923
+      Crop 3 W_85: 1837731211443098809
+      Crop 3 W_110: -5135363390620818706
+      Crop 3 W_68: -4077688075567830759
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

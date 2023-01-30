@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: 29b7e92066ef2304eac53aa36d8d2515
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 29668626732460185
+    second: Adventurer Sheet 1 - West Flip_0
+  - first:
+      213: 1150021367123629485
+    second: Adventurer Sheet 1 - West Flip_1
+  - first:
+      213: 3332079956124424017
+    second: Adventurer Sheet 1 - West Flip_2
+  - first:
+      213: 1541233302838957021
+    second: Adventurer Sheet 1 - West Flip_3
+  - first:
+      213: -1291911361044187401
+    second: Adventurer Sheet 1 - West Flip_4
+  - first:
+      213: 8660373271377749468
+    second: Adventurer Sheet 1 - West Flip_5
+  - first:
+      213: -614638260968768316
+    second: Adventurer Sheet 1 - West Flip_6
+  - first:
+      213: 8010935562846731103
+    second: Adventurer Sheet 1 - West Flip_7
+  - first:
+      213: 7989403472299684923
+    second: Adventurer Sheet 1 - West Flip_8
+  - first:
+      213: 5799147880643947328
+    second: Adventurer Sheet 1 - West Flip_9
+  - first:
+      213: -4260156692667721442
+    second: Adventurer Sheet 1 - West Flip_10
+  - first:
+      213: 6958570941313119146
+    second: Adventurer Sheet 1 - West Flip_11
+  - first:
+      213: -1782697169163132675
+    second: Adventurer Sheet 1 - West Flip_12
+  - first:
+      213: 5474760133040473561
+    second: Adventurer Sheet 1 - West Flip_13
+  - first:
+      213: -2450210894826403915
+    second: Adventurer Sheet 1 - West Flip_14
+  - first:
+      213: 2631502851459152418
+    second: Adventurer Sheet 1 - West Flip_15
+  - first:
+      213: 3894826216244979611
+    second: Adventurer Sheet 1 - West Flip_16
+  - first:
+      213: 2403545527425493845
+    second: Adventurer Sheet 1 - West Flip_17
+  - first:
+      213: -6903243932817191013
+    second: Adventurer Sheet 1 - West Flip_18
+  - first:
+      213: 6774555603319987058
+    second: Adventurer Sheet 1 - West Flip_19
+  - first:
+      213: -4186608863952434013
+    second: Adventurer Sheet 1 - West Flip_20
+  - first:
+      213: 8019556860451296526
+    second: Adventurer Sheet 1 - West Flip_21
+  - first:
+      213: -7953067271680595968
+    second: Adventurer Sheet 1 - West Flip_22
+  - first:
+      213: 4518856339110384974
+    second: Adventurer Sheet 1 - West Flip_23
+  - first:
+      213: 1433627425360479921
+    second: Adventurer Sheet 1 - West Flip_24
+  - first:
+      213: 1036929623265961112
+    second: Adventurer Sheet 1 - West Flip_25
+  - first:
+      213: -4124388039593616968
+    second: Adventurer Sheet 1 - West Flip_26
+  - first:
+      213: -143748140948891053
+    second: Adventurer Sheet 1 - West Flip_27
+  - first:
+      213: -3372142708008442221
+    second: Adventurer Sheet 1 - West Flip_28
+  - first:
+      213: 7820378729361406666
+    second: Adventurer Sheet 1 - West Flip_29
+  - first:
+      213: 4736666351975903520
+    second: Adventurer Sheet 1 - West Flip_30
+  - first:
+      213: 4530225581230900578
+    second: Adventurer Sheet 1 - West Flip_31
+  - first:
+      213: -4967076198209785051
+    second: Adventurer Sheet 1 - West Flip_32
+  - first:
+      213: 1545126157092095022
+    second: Adventurer Sheet 1 - West Flip_33
+  - first:
+      213: -7722743523614395458
+    second: Adventurer Sheet 1 - West Flip_34
+  - first:
+      213: -4974903906902014529
+    second: Adventurer Sheet 1 - West Flip_35
+  - first:
+      213: -2800635099680607650
+    second: Adventurer Sheet 1 - West Flip_36
+  - first:
+      213: -5337246622540032075
+    second: Adventurer Sheet 1 - West Flip_37
+  - first:
+      213: -7952855748283298375
+    second: Adventurer Sheet 1 - West Flip_38
+  - first:
+      213: 4815932485528593414
+    second: Adventurer Sheet 1 - West Flip_39
+  - first:
+      213: -5803366390756018667
+    second: Adventurer Sheet 1 - West Flip_40
+  - first:
+      213: -5788007286075655572
+    second: Adventurer Sheet 1 - West Flip_41
+  - first:
+      213: 2473719027185714585
+    second: Adventurer Sheet 1 - West Flip_42
+  - first:
+      213: -8447285251362046045
+    second: Adventurer Sheet 1 - West Flip_43
+  - first:
+      213: -2159566501424322799
+    second: Adventurer Sheet 1 - West Flip_44
+  - first:
+      213: 7926415852326158222
+    second: Adventurer Sheet 1 - West Flip_45
+  - first:
+      213: 2172652880440016490
+    second: Adventurer Sheet 1 - West Flip_46
+  - first:
+      213: 1173625304402040178
+    second: Adventurer Sheet 1 - West Flip_47
+  - first:
+      213: -3717246663398242699
+    second: Adventurer Sheet 1 - West Flip_48
+  - first:
+      213: 5318909827358575361
+    second: Adventurer Sheet 1 - West Flip_49
+  - first:
+      213: -42813973633302567
+    second: Adventurer Sheet 1 - West Flip_50
+  - first:
+      213: -1270565596855234951
+    second: Adventurer Sheet 1 - West Flip_51
+  - first:
+      213: 72050332508141277
+    second: Adventurer Sheet 1 - West Flip_52
+  - first:
+      213: -5649009788991340489
+    second: Adventurer Sheet 1 - West Flip_53
+  - first:
+      213: 8687289501773525260
+    second: Adventurer Sheet 1 - West Flip_54
+  - first:
+      213: -6912132304203521333
+    second: Adventurer Sheet 1 - West Flip_55
+  - first:
+      213: 5117610235429715066
+    second: Adventurer Sheet 1 - West Flip_56
+  - first:
+      213: -917077381657350082
+    second: Adventurer Sheet 1 - West Flip_57
+  - first:
+      213: 9007369467298907954
+    second: Adventurer Sheet 1 - West Flip_58
+  - first:
+      213: -3351757870127270984
+    second: Adventurer Sheet 1 - West Flip_59
+  - first:
+      213: -5472044784595478718
+    second: Adventurer Sheet 1 - West Flip_60
+  - first:
+      213: -3488634313019808438
+    second: Adventurer Sheet 1 - West Flip_61
+  - first:
+      213: -259179843255072672
+    second: Adventurer Sheet 1 - West Flip_62
+  - first:
+      213: -5248359321239363076
+    second: Adventurer Sheet 1 - West Flip_63
+  - first:
+      213: 1187139914572002701
+    second: Adventurer Sheet 1 - West Flip_64
+  - first:
+      213: 6504774927096504176
+    second: Adventurer Sheet 1 - West Flip_65
+  - first:
+      213: 2481935782570695759
+    second: Adventurer Sheet 1 - West Flip_66
+  - first:
+      213: -7441636166571969771
+    second: Adventurer Sheet 1 - West Flip_67
+  - first:
+      213: 45794801102218528
+    second: Adventurer Sheet 1 - West Flip_68
+  - first:
+      213: -9103295456791479571
+    second: Adventurer Sheet 1 - West Flip_69
+  - first:
+      213: -2912199172576250646
+    second: Adventurer Sheet 1 - West Flip_70
+  - first:
+      213: -4400026220190265126
+    second: Adventurer Sheet 1 - West Flip_71
+  - first:
+      213: 5346436080447169199
+    second: Adventurer Sheet 1 - West Flip_72
+  - first:
+      213: 1520109767788976005
+    second: Adventurer Sheet 1 - West Flip_73
+  - first:
+      213: -4017296647980195080
+    second: Adventurer Sheet 1 - West Flip_74
+  - first:
+      213: 8406127929903052616
+    second: Adventurer Sheet 1 - West Flip_75
+  - first:
+      213: 211618630084286375
+    second: Adventurer Sheet 1 - West Flip_76
+  - first:
+      213: -2719643832905603033
+    second: Adventurer Sheet 1 - West Flip_77
+  - first:
+      213: -7843977123816654153
+    second: Adventurer Sheet 1 - West Flip_78
+  - first:
+      213: -4978397949305895025
+    second: Adventurer Sheet 1 - West Flip_79
+  - first:
+      213: 361589503684580576
+    second: Adventurer Sheet 1 - West Flip_80
+  - first:
+      213: 3417649593616457891
+    second: Adventurer Sheet 1 - West Flip_81
+  - first:
+      213: 4327815436523509428
+    second: Adventurer Sheet 1 - West Flip_82
+  - first:
+      213: -8536149895859830362
+    second: Adventurer Sheet 1 - West Flip_83
+  - first:
+      213: -942058626165082375
+    second: Adventurer Sheet 1 - West Flip_84
+  - first:
+      213: 6231512656355100433
+    second: Adventurer Sheet 1 - West Flip_85
+  - first:
+      213: 6326351696428257887
+    second: Adventurer Sheet 1 - West Flip_86
+  - first:
+      213: -2588847387714228162
+    second: Adventurer Sheet 1 - West Flip_87
+  - first:
+      213: -8528232526175317926
+    second: Adventurer Sheet 1 - West Flip_88
+  - first:
+      213: 2640032307663782954
+    second: Adventurer Sheet 1 - West Flip_89
+  - first:
+      213: 8777018650584356588
+    second: Adventurer Sheet 1 - West Flip_90
+  - first:
+      213: -1071440692833133276
+    second: Adventurer Sheet 1 - West Flip_91
+  - first:
+      213: -8802539595794391586
+    second: Adventurer Sheet 1 - West Flip_92
+  - first:
+      213: -589252561990159304
+    second: Adventurer Sheet 1 - West Flip_93
+  - first:
+      213: -6564660832844951320
+    second: Adventurer Sheet 1 - West Flip_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 360
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ac557577696000800000000000000
+      internalID: 29668626732460185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 365
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5538f1752b5ff00800000000000000
+      internalID: 1150021367123629485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 362
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157def3e01ded3e20800000000000000
+      internalID: 3332079956124424017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 366
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d7bbe58f836510800000000000000
+      internalID: 1541233302838957021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 351
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67ba34675321ee0800000000000000
+      internalID: -1291911361044187401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 364
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd522ce0b93df2870800000000000000
+      internalID: 8660373271377749468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 359
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb79512cd5877f0800000000000000
+      internalID: -614638260968768316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 369
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf50e537f8c2f60800000000000000
+      internalID: 8010935562846731103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 367
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f1bdd02010ee60800000000000000
+      internalID: 7989403472299684923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 364
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bedb1b546ba7050800000000000000
+      internalID: 5799147880643947328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 366
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19990e2f02e0e4c0800000000000000
+      internalID: -4260156692667721442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 318
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f25d276fc19060800000000000000
+      internalID: 6958570941313119146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0efe9ae569247e0800000000000000
+      internalID: -1782697169163132675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 317
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50950a5514afb40800000000000000
+      internalID: 5474760133040473561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 314
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b784154c2a1ffdd0800000000000000
+      internalID: -2450210894826403915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 315
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a76aea6e9f48420800000000000000
+      internalID: 2631502851459152418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 319
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972929dec33d0630800000000000000
+      internalID: 3894826216244979611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 314
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55beca33ceb1b5120800000000000000
+      internalID: 2403545527425493845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 309
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f8f82d730c230a0800000000000000
+      internalID: -6903243932817191013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b15079d6e040e50800000000000000
+      internalID: 6774555603319987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 317
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac0d9a7b6d26e5c0800000000000000
+      internalID: -4186608863952434013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 314
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051f33a9703b4f60800000000000000
+      internalID: 8019556860451296526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 314
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00861bc147701a190800000000000000
+      internalID: -7953067271680595968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 268
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4552b306e336be30800000000000000
+      internalID: 4518856339110384974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68ed43c8445e310800000000000000
+      internalID: 1433627425360479921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 266
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e8db9ff9e36e00800000000000000
+      internalID: 1036929623265961112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 264
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b917201eea33c6c0800000000000000
+      internalID: -4124388039593616968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 264
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5e91d3dd410ef0800000000000000
+      internalID: -143748140948891053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 268
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ab3dc21eb331d0800000000000000
+      internalID: -3372142708008442221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca7b9c2501978c60800000000000000
+      internalID: 7820378729361406666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 270
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b11183f40cb140800000000000000
+      internalID: 4736666351975903520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 270
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c7a9f9289ede30800000000000000
+      internalID: 4530225581230900578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 260
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237861b386611bb0800000000000000
+      internalID: -4967076198209785051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 265
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2483aead04617510800000000000000
+      internalID: 1545126157092095022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 264
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f38f9ead43d490800000000000000
+      internalID: -7722743523614395458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5076d314795fab0800000000000000
+      internalID: -4974903906902014529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 206
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52fb0a17352229d0800000000000000
+      internalID: -2800635099680607650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b719d8897a4ee5b0800000000000000
+      internalID: -5337246622540032075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 217
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd86ad35d7c1a190800000000000000
+      internalID: -7952855748283298375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 216
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60422366411a5d240800000000000000
+      internalID: 4815932485528593414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_40
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516fb81e30d467fa0800000000000000
+      internalID: -5803366390756018667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 214
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a761c1a0edcafa0800000000000000
+      internalID: -5788007286075655572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 220
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958781595a645220800000000000000
+      internalID: 2473719027185714585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 214
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3b2cc1d635ca80800000000000000
+      internalID: -8447285251362046045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 219
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11725c575bda702e0800000000000000
+      internalID: -2159566501424322799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 215
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ffce3c839400e60800000000000000
+      internalID: 7926415852326158222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3bd69840d62e10800000000000000
+      internalID: 2172652880440016490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751b480ffd894010800000000000000
+      internalID: 1173625304402040178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57644adbadfa96cc0800000000000000
+      internalID: -3717246663398242699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bca04ae4090d940800000000000000
+      internalID: 5318909827358575361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 170
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff926fae4e76ff0800000000000000
+      internalID: -42813973633302567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e8c97425b0e5ee0800000000000000
+      internalID: -1270565596855234951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 151
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b81b4569fff000800000000000000
+      internalID: 72050332508141277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 157
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308772d68faa91b0800000000000000
+      internalID: -5649009788991340489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 169
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f03e46c37f8870800000000000000
+      internalID: 8687289501773525260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc262779a4c2310a0800000000000000
+      internalID: -6912132304203521333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_56
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 163
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf0b51567650740800000000000000
+      internalID: 5117610235429715066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 166
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b4c2faf2e543f0800000000000000
+      internalID: -917077381657350082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 162
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370d03beca900d70800000000000000
+      internalID: 9007369467298907954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b1f9b9f92c71d0800000000000000
+      internalID: -3351757870127270984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475823b2446f04b0800000000000000
+      internalID: -5472044784595478718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45273d6391e59fc0800000000000000
+      internalID: -3488634313019808438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06807d54e45376cf0800000000000000
+      internalID: -259179843255072672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 99
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1eaeb11051a27b0800000000000000
+      internalID: -5248359321239363076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 109
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8570ca6671997010800000000000000
+      internalID: 1187139914572002701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5479155a954a50800000000000000
+      internalID: 6504774927096504176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 120
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c1573c17b917220800000000000000
+      internalID: 2481935782570695759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51337cf755ff9b890800000000000000
+      internalID: -7441636166571969771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 117
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e1440122b2a000800000000000000
+      internalID: 45794801102218528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_69
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 115
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea348c63099aa180800000000000000
+      internalID: -9103295456791479571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 114
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f763384ac597d0800000000000000
+      internalID: -2912199172576250646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0972f0777ffe2c0800000000000000
+      internalID: -4400026220190265126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 58
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a26dd94b523a40800000000000000
+      internalID: 5346436080447169199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587d9a8a7c3881510800000000000000
+      internalID: 1520109767788976005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e5c3bbf1bf38c0800000000000000
+      internalID: -4017296647980195080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477c5e80d098a470800000000000000
+      internalID: 8406127929903052616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_76
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 62
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7570ad502dfe200800000000000000
+      internalID: 211618630084286375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 58
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286410e752e14ad0800000000000000
+      internalID: -2719643832905603033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_78
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3e947d58942390800000000000000
+      internalID: -7843977123816654153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_79
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 54
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c619117d29eab0800000000000000
+      internalID: -4978397949305895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e411a1ecbf940500800000000000000
+      internalID: 361589503684580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_81
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0644aa23eed6f20800000000000000
+      internalID: 3417649593616457891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69f63b53d7f0c30800000000000000
+      internalID: 4327815436523509428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a189cb65e0898980800000000000000
+      internalID: -8536149895859830362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_84
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f676d5bba22de2f0800000000000000
+      internalID: -942058626165082375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178567beb7ca7650800000000000000
+      internalID: 6231512656355100433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52dbc57957bbc750800000000000000
+      internalID: 6326351696428257887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3078956401921cd0800000000000000
+      internalID: -2588847387714228162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 14
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505363b3b1a5a980800000000000000
+      internalID: -8528232526175317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 8
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cad5756743a420800000000000000
+      internalID: 2640032307663782954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_90
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 20
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61f07c5fb3ec970800000000000000
+      internalID: 8777018650584356588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d58c9dd5a7121f0800000000000000
+      internalID: -1071440692833133276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd5d5f10e817d580800000000000000
+      internalID: -8802539595794391586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 16
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8347697baed82d7f0800000000000000
+      internalID: -589252561990159304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 1 - West Flip_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 13
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05b5be0c3a5e4a0800000000000000
+      internalID: -6564660832844951320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventurer Sheet 1 - West Flip_25: 1036929623265961112
+      Adventurer Sheet 1 - West Flip_73: 1520109767788976005
+      Adventurer Sheet 1 - West Flip_31: 4530225581230900578
+      Adventurer Sheet 1 - West Flip_60: -5472044784595478718
+      Adventurer Sheet 1 - West Flip_77: -2719643832905603033
+      Adventurer Sheet 1 - West Flip_72: 5346436080447169199
+      Adventurer Sheet 1 - West Flip_69: -9103295456791479571
+      Adventurer Sheet 1 - West Flip_15: 2631502851459152418
+      Adventurer Sheet 1 - West Flip_26: -4124388039593616968
+      Adventurer Sheet 1 - West Flip_76: 211618630084286375
+      Adventurer Sheet 1 - West Flip_29: 7820378729361406666
+      Adventurer Sheet 1 - West Flip_38: -7952855748283298375
+      Adventurer Sheet 1 - West Flip_59: -3351757870127270984
+      Adventurer Sheet 1 - West Flip_34: -7722743523614395458
+      Adventurer Sheet 1 - West Flip_22: -7953067271680595968
+      Adventurer Sheet 1 - West Flip_14: -2450210894826403915
+      Adventurer Sheet 1 - West Flip_23: 4518856339110384974
+      Adventurer Sheet 1 - West Flip_75: 8406127929903052616
+      Adventurer Sheet 1 - West Flip_1: 1150021367123629485
+      Adventurer Sheet 1 - West Flip_32: -4967076198209785051
+      Adventurer Sheet 1 - West Flip_81: 3417649593616457891
+      Adventurer Sheet 1 - West Flip_51: -1270565596855234951
+      Adventurer Sheet 1 - West Flip_21: 8019556860451296526
+      Adventurer Sheet 1 - West Flip_27: -143748140948891053
+      Adventurer Sheet 1 - West Flip_61: -3488634313019808438
+      Adventurer Sheet 1 - West Flip_37: -5337246622540032075
+      Adventurer Sheet 1 - West Flip_6: -614638260968768316
+      Adventurer Sheet 1 - West Flip_35: -4974903906902014529
+      Adventurer Sheet 1 - West Flip_65: 6504774927096504176
+      Adventurer Sheet 1 - West Flip_9: 5799147880643947328
+      Adventurer Sheet 1 - West Flip_83: -8536149895859830362
+      Adventurer Sheet 1 - West Flip_43: -8447285251362046045
+      Adventurer Sheet 1 - West Flip_86: 6326351696428257887
+      Adventurer Sheet 1 - West Flip_24: 1433627425360479921
+      Adventurer Sheet 1 - West Flip_41: -5788007286075655572
+      Adventurer Sheet 1 - West Flip_52: 72050332508141277
+      Adventurer Sheet 1 - West Flip_88: -8528232526175317926
+      Adventurer Sheet 1 - West Flip_11: 6958570941313119146
+      Adventurer Sheet 1 - West Flip_10: -4260156692667721442
+      Adventurer Sheet 1 - West Flip_42: 2473719027185714585
+      Adventurer Sheet 1 - West Flip_90: 8777018650584356588
+      Adventurer Sheet 1 - West Flip_87: -2588847387714228162
+      Adventurer Sheet 1 - West Flip_18: -6903243932817191013
+      Adventurer Sheet 1 - West Flip_17: 2403545527425493845
+      Adventurer Sheet 1 - West Flip_80: 361589503684580576
+      Adventurer Sheet 1 - West Flip_20: -4186608863952434013
+      Adventurer Sheet 1 - West Flip_92: -8802539595794391586
+      Adventurer Sheet 1 - West Flip_74: -4017296647980195080
+      Adventurer Sheet 1 - West Flip_12: -1782697169163132675
+      Adventurer Sheet 1 - West Flip_84: -942058626165082375
+      Adventurer Sheet 1 - West Flip_53: -5649009788991340489
+      Adventurer Sheet 1 - West Flip_19: 6774555603319987058
+      Adventurer Sheet 1 - West Flip_3: 1541233302838957021
+      Adventurer Sheet 1 - West Flip_49: 5318909827358575361
+      Adventurer Sheet 1 - West Flip_46: 2172652880440016490
+      Adventurer Sheet 1 - West Flip_57: -917077381657350082
+      Adventurer Sheet 1 - West Flip_94: -6564660832844951320
+      Adventurer Sheet 1 - West Flip_71: -4400026220190265126
+      Adventurer Sheet 1 - West Flip_8: 7989403472299684923
+      Adventurer Sheet 1 - West Flip_33: 1545126157092095022
+      Adventurer Sheet 1 - West Flip_45: 7926415852326158222
+      Adventurer Sheet 1 - West Flip_50: -42813973633302567
+      Adventurer Sheet 1 - West Flip_70: -2912199172576250646
+      Adventurer Sheet 1 - West Flip_82: 4327815436523509428
+      Adventurer Sheet 1 - West Flip_64: 1187139914572002701
+      Adventurer Sheet 1 - West Flip_85: 6231512656355100433
+      Adventurer Sheet 1 - West Flip_62: -259179843255072672
+      Adventurer Sheet 1 - West Flip_36: -2800635099680607650
+      Adventurer Sheet 1 - West Flip_16: 3894826216244979611
+      Adventurer Sheet 1 - West Flip_30: 4736666351975903520
+      Adventurer Sheet 1 - West Flip_44: -2159566501424322799
+      Adventurer Sheet 1 - West Flip_89: 2640032307663782954
+      Adventurer Sheet 1 - West Flip_79: -4978397949305895025
+      Adventurer Sheet 1 - West Flip_55: -6912132304203521333
+      Adventurer Sheet 1 - West Flip_66: 2481935782570695759
+      Adventurer Sheet 1 - West Flip_91: -1071440692833133276
+      Adventurer Sheet 1 - West Flip_5: 8660373271377749468
+      Adventurer Sheet 1 - West Flip_28: -3372142708008442221
+      Adventurer Sheet 1 - West Flip_63: -5248359321239363076
+      Adventurer Sheet 1 - West Flip_0: 29668626732460185
+      Adventurer Sheet 1 - West Flip_78: -7843977123816654153
+      Adventurer Sheet 1 - West Flip_13: 5474760133040473561
+      Adventurer Sheet 1 - West Flip_40: -5803366390756018667
+      Adventurer Sheet 1 - West Flip_68: 45794801102218528
+      Adventurer Sheet 1 - West Flip_7: 8010935562846731103
+      Adventurer Sheet 1 - West Flip_58: 9007369467298907954
+      Adventurer Sheet 1 - West Flip_67: -7441636166571969771
+      Adventurer Sheet 1 - West Flip_56: 5117610235429715066
+      Adventurer Sheet 1 - West Flip_48: -3717246663398242699
+      Adventurer Sheet 1 - West Flip_54: 8687289501773525260
+      Adventurer Sheet 1 - West Flip_93: -589252561990159304
+      Adventurer Sheet 1 - West Flip_4: -1291911361044187401
+      Adventurer Sheet 1 - West Flip_2: 3332079956124424017
+      Adventurer Sheet 1 - West Flip_39: 4815932485528593414
+      Adventurer Sheet 1 - West Flip_47: 1173625304402040178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: 87b3e6e00935b9f4b8e1b556d041a99f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1584639484874168524
+    second: Crop 1 South_0
+  - first:
+      213: 4371336685905197581
+    second: Crop 1 South_1
+  - first:
+      213: 2410717846212630735
+    second: Crop 1 South_2
+  - first:
+      213: -8352497937479938327
+    second: Crop 1 South_3
+  - first:
+      213: 7013373896454107574
+    second: Crop 1 South_4
+  - first:
+      213: 8186281680774349681
+    second: Crop 1 South_5
+  - first:
+      213: 640859747463578993
+    second: Crop 1 South_6
+  - first:
+      213: 5203547016601441754
+    second: Crop 1 South_7
+  - first:
+      213: -3180148918871183141
+    second: Crop 1 South_8
+  - first:
+      213: 2846055860946962996
+    second: Crop 1 South_9
+  - first:
+      213: -7956512606677190207
+    second: Crop 1 South_10
+  - first:
+      213: 2479559008864476727
+    second: Crop 1 South_11
+  - first:
+      213: -5554580645004688413
+    second: Crop 1 South_12
+  - first:
+      213: -6593550250933719848
+    second: Crop 1 South_13
+  - first:
+      213: -6884832058816976172
+    second: Crop 1 South_14
+  - first:
+      213: -5026032946379645735
+    second: Crop 1 South_15
+  - first:
+      213: 2357365822482528189
+    second: Crop 1 South_16
+  - first:
+      213: 8323284977047684062
+    second: Crop 1 South_17
+  - first:
+      213: 4190889270908646614
+    second: Crop 1 South_18
+  - first:
+      213: 5183864959571867806
+    second: Crop 1 South_19
+  - first:
+      213: -1769895002051374900
+    second: Crop 1 South_20
+  - first:
+      213: 8312664774777715204
+    second: Crop 1 South_21
+  - first:
+      213: -2279836371944438196
+    second: Crop 1 South_22
+  - first:
+      213: 5317228042388891254
+    second: Crop 1 South_23
+  - first:
+      213: -1827438531096909136
+    second: Crop 1 South_24
+  - first:
+      213: -8441696358964735122
+    second: Crop 1 South_25
+  - first:
+      213: -4028433629176722687
+    second: Crop 1 South_26
+  - first:
+      213: -5780939390375860933
+    second: Crop 1 South_27
+  - first:
+      213: 8460660620139325548
+    second: Crop 1 South_28
+  - first:
+      213: 2397722174675240747
+    second: Crop 1 South_29
+  - first:
+      213: 4083304380419805524
+    second: Crop 1 South_30
+  - first:
+      213: 4767614749620398154
+    second: Crop 1 South_31
+  - first:
+      213: -5247344677376516499
+    second: Crop 1 South_32
+  - first:
+      213: -6323929734959391107
+    second: Crop 1 South_33
+  - first:
+      213: -3959007530258557312
+    second: Crop 1 South_34
+  - first:
+      213: -8945516639482970206
+    second: Crop 1 South_35
+  - first:
+      213: 8738186163889545168
+    second: Crop 1 South_36
+  - first:
+      213: 7875248258885811834
+    second: Crop 1 South_37
+  - first:
+      213: -1942696528437688612
+    second: Crop 1 South_38
+  - first:
+      213: 4516282382859353597
+    second: Crop 1 South_39
+  - first:
+      213: -5231179157644143149
+    second: Crop 1 South_40
+  - first:
+      213: 868700062408613654
+    second: Crop 1 South_41
+  - first:
+      213: 3858468162189109268
+    second: Crop 1 South_42
+  - first:
+      213: -7925756789649059399
+    second: Crop 1 South_43
+  - first:
+      213: 8649563092027380138
+    second: Crop 1 South_44
+  - first:
+      213: 3159119795673173305
+    second: Crop 1 South_45
+  - first:
+      213: -2298006644107668391
+    second: Crop 1 South_46
+  - first:
+      213: 2445116674384517491
+    second: Crop 1 South_47
+  - first:
+      213: -3444171888931516231
+    second: Crop 1 South_48
+  - first:
+      213: -5975323114891791523
+    second: Crop 1 South_49
+  - first:
+      213: 74564310625660100
+    second: Crop 1 South_50
+  - first:
+      213: -4506318955426113811
+    second: Crop 1 South_51
+  - first:
+      213: -7394983523306250335
+    second: Crop 1 South_52
+  - first:
+      213: 2544526941381535760
+    second: Crop 1 South_53
+  - first:
+      213: 861664731132825081
+    second: Crop 1 South_54
+  - first:
+      213: 7142988132267646384
+    second: Crop 1 South_55
+  - first:
+      213: 9054181021942956090
+    second: Crop 1 South_56
+  - first:
+      213: 5676210083064363104
+    second: Crop 1 South_57
+  - first:
+      213: -3939367192690779578
+    second: Crop 1 South_58
+  - first:
+      213: -2864552672519510783
+    second: Crop 1 South_59
+  - first:
+      213: -1430726951551397066
+    second: Crop 1 South_60
+  - first:
+      213: 1866846932043917570
+    second: Crop 1 South_61
+  - first:
+      213: -6693337963208481334
+    second: Crop 1 South_62
+  - first:
+      213: 6498959759420918173
+    second: Crop 1 South_63
+  - first:
+      213: -1565430228323525329
+    second: Crop 1 South_64
+  - first:
+      213: 2895015580570484872
+    second: Crop 1 South_65
+  - first:
+      213: 4975659310980563467
+    second: Crop 1 South_66
+  - first:
+      213: -5056545715258598050
+    second: Crop 1 South_67
+  - first:
+      213: 2593462169570954189
+    second: Crop 1 South_68
+  - first:
+      213: 1646727174056103278
+    second: Crop 1 South_69
+  - first:
+      213: -5195742855202104132
+    second: Crop 1 South_70
+  - first:
+      213: -83818175084526212
+    second: Crop 1 South_71
+  - first:
+      213: -2905753996786814793
+    second: Crop 1 South_72
+  - first:
+      213: -7680624670561117619
+    second: Crop 1 South_73
+  - first:
+      213: 2425963967395851654
+    second: Crop 1 South_74
+  - first:
+      213: 43797064202434947
+    second: Crop 1 South_75
+  - first:
+      213: -92072559952233754
+    second: Crop 1 South_76
+  - first:
+      213: -4455846466577211693
+    second: Crop 1 South_77
+  - first:
+      213: -2471600561078876173
+    second: Crop 1 South_78
+  - first:
+      213: -4695849116445430744
+    second: Crop 1 South_79
+  - first:
+      213: 1618987088109685848
+    second: Crop 1 South_80
+  - first:
+      213: -7732310819348665891
+    second: Crop 1 South_81
+  - first:
+      213: 5844879515565821411
+    second: Crop 1 South_82
+  - first:
+      213: 3101567358101078413
+    second: Crop 1 South_83
+  - first:
+      213: -7765013484257546715
+    second: Crop 1 South_84
+  - first:
+      213: -4504217929546309032
+    second: Crop 1 South_85
+  - first:
+      213: -5852595205950549908
+    second: Crop 1 South_86
+  - first:
+      213: 7334915514574348528
+    second: Crop 1 South_87
+  - first:
+      213: 5215139763008493833
+    second: Crop 1 South_88
+  - first:
+      213: 5655707729841174898
+    second: Crop 1 South_89
+  - first:
+      213: 2042138640467171294
+    second: Crop 1 South_90
+  - first:
+      213: 7085089801625330976
+    second: Crop 1 South_91
+  - first:
+      213: 4470064178004485303
+    second: Crop 1 South_92
+  - first:
+      213: -3010286131513358022
+    second: Crop 1 South_93
+  - first:
+      213: 17323935911719385
+    second: Crop 1 South_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crop 1 South_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 412
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376407c8ca320ae0800000000000000
+      internalID: -1584639484874168524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 411
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a33053e8b1aac30800000000000000
+      internalID: 4371336685905197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 412
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d23dcb17947120800000000000000
+      internalID: 2410717846212630735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 411
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee43591167f51c80800000000000000
+      internalID: -8352497937479938327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 418
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f42f7662845160800000000000000
+      internalID: 7013373896454107574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 418
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c7ddd0d38b9170800000000000000
+      internalID: 8186281680774349681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c96e7b8ac4e800800000000000000
+      internalID: 640859747463578993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 381
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad592982176b63840800000000000000
+      internalID: 5203547016601441754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd037dd4867ddd3d0800000000000000
+      internalID: -3180148918871183141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 379
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a89aaf9b83f7720800000000000000
+      internalID: 2846055860946962996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 378
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b61c80f9c49190800000000000000
+      internalID: -7956512606677190207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 378
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9cf208c9296220800000000000000
+      internalID: 2479559008864476727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 379
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34c32355a2ae2b0800000000000000
+      internalID: -5554580645004688413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 379
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc686c1bf00f74a0800000000000000
+      internalID: -6593550250933719848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_14
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 372
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da2efb48b92470a0800000000000000
+      internalID: -6884832058816976172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc91a11aa1ff3ab0800000000000000
+      internalID: -5026032946379645735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 340
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7b7b6c9bb07b020800000000000000
+      internalID: 2357365822482528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c545869f328370800000000000000
+      internalID: 8323284977047684062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 344
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4718d6697092a30800000000000000
+      internalID: 4190889270908646614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 343
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9830e627b9c0f740800000000000000
+      internalID: 5183864959571867806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 340
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01df87fd11077e0800000000000000
+      internalID: -1769895002051374900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 340
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a378df1948c5370800000000000000
+      internalID: 8312664774777715204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 340
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468c3816e46c50e0800000000000000
+      internalID: -2279836371944438196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e5509bb69ac940800000000000000
+      internalID: 5317228042388891254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba6b119652a3a6e0800000000000000
+      internalID: -1827438531096909136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 307
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d23633e119da80800000000000000
+      internalID: -8441696358964735122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 314
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0fa335f02818c0800000000000000
+      internalID: -4028433629176722687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 315
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356590d04af5cfa0800000000000000
+      internalID: -5780939390375860933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 314
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c686a8ce10e4a6570800000000000000
+      internalID: 8460660620139325548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 310
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27489b3d9b664120800000000000000
+      internalID: 2397722174675240747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 308
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45118b023bfcaa830800000000000000
+      internalID: 4083304380419805524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 271
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a486909da58f92240800000000000000
+      internalID: 4767614749620398154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9fea41dfad27b0800000000000000
+      internalID: -5247344677376516499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 271
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e17336963ec38a0800000000000000
+      internalID: -6323929734959391107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 271
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08697df70a7ce09c0800000000000000
+      internalID: -3959007530258557312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af754303042bd380800000000000000
+      internalID: -8945516639482970206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 275
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df9ed7e406444970800000000000000
+      internalID: 8738186163889545168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 275
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ef6ec01908a4d60800000000000000
+      internalID: 7875248258885811834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 276
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6461cdcc72a05e0800000000000000
+      internalID: -1942696528437688612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdbfaf16ee0dae30800000000000000
+      internalID: 4516282382859353597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 232
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59138a54e1767b0800000000000000
+      internalID: -5231179157644143149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 232
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f993caa1e3e0c00800000000000000
+      internalID: 868700062408613654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 236
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418af68b9580c8530800000000000000
+      internalID: 3858468162189109268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 237
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d3d8313e020290800000000000000
+      internalID: -7925756789649059399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 229
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa11f9a0ecb690870800000000000000
+      internalID: 8649563092027380138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 231
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d010867b277db20800000000000000
+      internalID: 3159119795673173305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 231
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954997ee127db10e0800000000000000
+      internalID: -2298006644107668391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d21b19accee120800000000000000
+      internalID: 2445116674384517491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 189
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d9de3ae7d330d0800000000000000
+      internalID: -3444171888931516231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 185
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b1be1943631da0800000000000000
+      internalID: -5975323114891791523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 185
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca3cf68d7e80100800000000000000
+      internalID: 74564310625660100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 201
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6973919c65671c0800000000000000
+      internalID: -4506318955426113811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 199
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd6757aadbf5990800000000000000
+      internalID: -7394983523306250335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018257e85c9ff4320800000000000000
+      internalID: 2544526941381535760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 193
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd87a6f18f35fb00800000000000000
+      internalID: 861664731132825081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd4a27cddf02360800000000000000
+      internalID: 7142988132267646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 157
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a304ef81ba9e6ad70800000000000000
+      internalID: 9054181021942956090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 154
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ba872ff2f5ce40800000000000000
+      internalID: 5676210083064363104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 154
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a96dfe86e8459c0800000000000000
+      internalID: -3939367192690779578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105241a75801f38d0800000000000000
+      internalID: -2864552672519510783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 155
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633933afa69052ce0800000000000000
+      internalID: -1430726951551397066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 154
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209618ac46f58e910800000000000000
+      internalID: 1866846932043917570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 151
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56255d59c7c13a0800000000000000
+      internalID: -6693337963208481334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 114
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9987ddd771f03a50800000000000000
+      internalID: 6498959759420918173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d1e185089764ae0800000000000000
+      internalID: -1565430228323525329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 114
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880002305592d2820800000000000000
+      internalID: 2895015580570484872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028c5af7c71d0540800000000000000
+      internalID: 4975659310980563467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 130
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ddc73767a83d9b0800000000000000
+      internalID: -5056545715258598050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc0bb3a14ddf320800000000000000
+      internalID: 2593462169570954189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 132
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc89bd3a95ad610800000000000000
+      internalID: 1646727174056103278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 132
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc9763c66305e7b0800000000000000
+      internalID: -5195742855202104132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758d5850d736def0800000000000000
+      internalID: -83818175084526212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b9d0a220bca7d0800000000000000
+      internalID: -2905753996786814793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 87
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5a1a4e80f86590800000000000000
+      internalID: -7680624670561117619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de6820061caa120800000000000000
+      internalID: 2425963967395851654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389bdf5a2399b9000800000000000000
+      internalID: 43797064202434947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 81
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7c7a9e74e8bef0800000000000000
+      internalID: -92072559952233754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 79
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5cf92f37a922c0800000000000000
+      internalID: -4455846466577211693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_78
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 81
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7cc32826c13bdd0800000000000000
+      internalID: -2471600561078876173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 51
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2077bb1ef4deb0800000000000000
+      internalID: -4695849116445430744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc8bacd2cc77610800000000000000
+      internalID: 1618987088109685848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd920dff64051b490800000000000000
+      internalID: -7732310819348665891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 46
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0240b3fe2d1150800000000000000
+      internalID: 5844879515565821411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 45
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81cf82541bfa0b20800000000000000
+      internalID: 3101567358101078413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee5ba70612d3490800000000000000
+      internalID: -7765013484257546715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_85
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 46
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852627e48adcd71c0800000000000000
+      internalID: -4504217929546309032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 45
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d9272ba767cea0800000000000000
+      internalID: -5852595205950549908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a4b76ccadac560800000000000000
+      internalID: 7334915514574348528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d224cbf5ef5840800000000000000
+      internalID: 5215139763008493833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2793d9e073c1d7e40800000000000000
+      internalID: 5655707729841174898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_90
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed715271642275c10800000000000000
+      internalID: 2042138640467171294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 7
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025ee9bd2ab435260800000000000000
+      internalID: 7085089801625330976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_92
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e72dbfabd80e30800000000000000
+      internalID: 4470064178004485303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 6
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398cda66b05936d0800000000000000
+      internalID: -3010286131513358022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 1 South_94
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 7
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13126270c8d3000800000000000000
+      internalID: 17323935911719385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crop 1 South_27: -5780939390375860933
+      Crop 1 South_29: 2397722174675240747
+      Crop 1 South_61: 1866846932043917570
+      Crop 1 South_15: -5026032946379645735
+      Crop 1 South_84: -7765013484257546715
+      Crop 1 South_42: 3858468162189109268
+      Crop 1 South_52: -7394983523306250335
+      Crop 1 South_19: 5183864959571867806
+      Crop 1 South_32: -5247344677376516499
+      Crop 1 South_13: -6593550250933719848
+      Crop 1 South_44: 8649563092027380138
+      Crop 1 South_63: 6498959759420918173
+      Crop 1 South_3: -8352497937479938327
+      Crop 1 South_26: -4028433629176722687
+      Crop 1 South_88: 5215139763008493833
+      Crop 1 South_62: -6693337963208481334
+      Crop 1 South_23: 5317228042388891254
+      Crop 1 South_34: -3959007530258557312
+      Crop 1 South_89: 5655707729841174898
+      Crop 1 South_80: 1618987088109685848
+      Crop 1 South_38: -1942696528437688612
+      Crop 1 South_5: 8186281680774349681
+      Crop 1 South_68: 2593462169570954189
+      Crop 1 South_83: 3101567358101078413
+      Crop 1 South_10: -7956512606677190207
+      Crop 1 South_33: -6323929734959391107
+      Crop 1 South_21: 8312664774777715204
+      Crop 1 South_45: 3159119795673173305
+      Crop 1 South_4: 7013373896454107574
+      Crop 1 South_2: 2410717846212630735
+      Crop 1 South_93: -3010286131513358022
+      Crop 1 South_55: 7142988132267646384
+      Crop 1 South_72: -2905753996786814793
+      Crop 1 South_82: 5844879515565821411
+      Crop 1 South_46: -2298006644107668391
+      Crop 1 South_8: -3180148918871183141
+      Crop 1 South_94: 17323935911719385
+      Crop 1 South_59: -2864552672519510783
+      Crop 1 South_37: 7875248258885811834
+      Crop 1 South_65: 2895015580570484872
+      Crop 1 South_81: -7732310819348665891
+      Crop 1 South_91: 7085089801625330976
+      Crop 1 South_78: -2471600561078876173
+      Crop 1 South_76: -92072559952233754
+      Crop 1 South_87: 7334915514574348528
+      Crop 1 South_24: -1827438531096909136
+      Crop 1 South_53: 2544526941381535760
+      Crop 1 South_6: 640859747463578993
+      Crop 1 South_75: 43797064202434947
+      Crop 1 South_7: 5203547016601441754
+      Crop 1 South_36: 8738186163889545168
+      Crop 1 South_85: -4504217929546309032
+      Crop 1 South_43: -7925756789649059399
+      Crop 1 South_71: -83818175084526212
+      Crop 1 South_31: 4767614749620398154
+      Crop 1 South_56: 9054181021942956090
+      Crop 1 South_66: 4975659310980563467
+      Crop 1 South_57: 5676210083064363104
+      Crop 1 South_17: 8323284977047684062
+      Crop 1 South_77: -4455846466577211693
+      Crop 1 South_67: -5056545715258598050
+      Crop 1 South_9: 2846055860946962996
+      Crop 1 South_12: -5554580645004688413
+      Crop 1 South_90: 2042138640467171294
+      Crop 1 South_70: -5195742855202104132
+      Crop 1 South_28: 8460660620139325548
+      Crop 1 South_30: 4083304380419805524
+      Crop 1 South_0: -1584639484874168524
+      Crop 1 South_47: 2445116674384517491
+      Crop 1 South_69: 1646727174056103278
+      Crop 1 South_39: 4516282382859353597
+      Crop 1 South_35: -8945516639482970206
+      Crop 1 South_14: -6884832058816976172
+      Crop 1 South_58: -3939367192690779578
+      Crop 1 South_40: -5231179157644143149
+      Crop 1 South_74: 2425963967395851654
+      Crop 1 South_49: -5975323114891791523
+      Crop 1 South_16: 2357365822482528189
+      Crop 1 South_51: -4506318955426113811
+      Crop 1 South_1: 4371336685905197581
+      Crop 1 South_73: -7680624670561117619
+      Crop 1 South_64: -1565430228323525329
+      Crop 1 South_79: -4695849116445430744
+      Crop 1 South_60: -1430726951551397066
+      Crop 1 South_92: 4470064178004485303
+      Crop 1 South_54: 861664731132825081
+      Crop 1 South_18: 4190889270908646614
+      Crop 1 South_20: -1769895002051374900
+      Crop 1 South_50: 74564310625660100
+      Crop 1 South_86: -5852595205950549908
+      Crop 1 South_11: 2479559008864476727
+      Crop 1 South_25: -8441696358964735122
+      Crop 1 South_41: 868700062408613654
+      Crop 1 South_22: -2279836371944438196
+      Crop 1 South_48: -3444171888931516231
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

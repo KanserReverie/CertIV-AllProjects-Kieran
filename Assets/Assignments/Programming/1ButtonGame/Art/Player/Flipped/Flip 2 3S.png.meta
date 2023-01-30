@@ -1,0 +1,2971 @@
+fileFormatVersion: 2
+guid: 8ea0fc61b333cc748b5b3552fa9f4736
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 360460951902717733
+    second: Adventurer Sheet 4 - South Flip_0
+  - first:
+      213: 6473041533101851850
+    second: Adventurer Sheet 4 - South Flip_1
+  - first:
+      213: 8436785303792717345
+    second: Adventurer Sheet 4 - South Flip_2
+  - first:
+      213: 5874307252497752651
+    second: Adventurer Sheet 4 - South Flip_3
+  - first:
+      213: -8612824481000139936
+    second: Adventurer Sheet 4 - South Flip_4
+  - first:
+      213: -8949308671874593304
+    second: Adventurer Sheet 4 - South Flip_5
+  - first:
+      213: -8511540806496364554
+    second: Adventurer Sheet 4 - South Flip_6
+  - first:
+      213: -5285119725748572562
+    second: Adventurer Sheet 4 - South Flip_7
+  - first:
+      213: -1425232374610199268
+    second: Adventurer Sheet 4 - South Flip_8
+  - first:
+      213: 1324374207066030022
+    second: Adventurer Sheet 4 - South Flip_9
+  - first:
+      213: 3351217961473277410
+    second: Adventurer Sheet 4 - South Flip_10
+  - first:
+      213: -2072156377844383239
+    second: Adventurer Sheet 4 - South Flip_11
+  - first:
+      213: 4899830298109297442
+    second: Adventurer Sheet 4 - South Flip_12
+  - first:
+      213: -3551296587150528866
+    second: Adventurer Sheet 4 - South Flip_13
+  - first:
+      213: 1444261305193044664
+    second: Adventurer Sheet 4 - South Flip_14
+  - first:
+      213: -1765962522538266700
+    second: Adventurer Sheet 4 - South Flip_15
+  - first:
+      213: 3851710933764507891
+    second: Adventurer Sheet 4 - South Flip_16
+  - first:
+      213: 3114593936209999775
+    second: Adventurer Sheet 4 - South Flip_17
+  - first:
+      213: -513220308271522316
+    second: Adventurer Sheet 4 - South Flip_18
+  - first:
+      213: 8760015536702651118
+    second: Adventurer Sheet 4 - South Flip_19
+  - first:
+      213: 2918817184130901366
+    second: Adventurer Sheet 4 - South Flip_20
+  - first:
+      213: 2538255988569938998
+    second: Adventurer Sheet 4 - South Flip_21
+  - first:
+      213: 7860065594360778746
+    second: Adventurer Sheet 4 - South Flip_22
+  - first:
+      213: -3115333419445101468
+    second: Adventurer Sheet 4 - South Flip_23
+  - first:
+      213: -3436642810518902762
+    second: Adventurer Sheet 4 - South Flip_24
+  - first:
+      213: 3694552057419618748
+    second: Adventurer Sheet 4 - South Flip_25
+  - first:
+      213: -3104181216221532146
+    second: Adventurer Sheet 4 - South Flip_26
+  - first:
+      213: -1755511093770134686
+    second: Adventurer Sheet 4 - South Flip_27
+  - first:
+      213: -7519338242966161525
+    second: Adventurer Sheet 4 - South Flip_28
+  - first:
+      213: 7116355489881304004
+    second: Adventurer Sheet 4 - South Flip_29
+  - first:
+      213: -3417016121939189581
+    second: Adventurer Sheet 4 - South Flip_30
+  - first:
+      213: -5495967299279584292
+    second: Adventurer Sheet 4 - South Flip_31
+  - first:
+      213: -3340960931146809851
+    second: Adventurer Sheet 4 - South Flip_32
+  - first:
+      213: 2682277653302603524
+    second: Adventurer Sheet 4 - South Flip_33
+  - first:
+      213: 7140246563065674432
+    second: Adventurer Sheet 4 - South Flip_34
+  - first:
+      213: 2168667508982236973
+    second: Adventurer Sheet 4 - South Flip_35
+  - first:
+      213: -4260926426943457459
+    second: Adventurer Sheet 4 - South Flip_36
+  - first:
+      213: 6948928512156930430
+    second: Adventurer Sheet 4 - South Flip_37
+  - first:
+      213: 4638019871645287078
+    second: Adventurer Sheet 4 - South Flip_38
+  - first:
+      213: -5797742594433090284
+    second: Adventurer Sheet 4 - South Flip_39
+  - first:
+      213: -1624119955573088678
+    second: Adventurer Sheet 4 - South Flip_40
+  - first:
+      213: 2772750019102789930
+    second: Adventurer Sheet 4 - South Flip_41
+  - first:
+      213: 8741158974876901580
+    second: Adventurer Sheet 4 - South Flip_42
+  - first:
+      213: 7408485783149079988
+    second: Adventurer Sheet 4 - South Flip_43
+  - first:
+      213: 6281313174659939478
+    second: Adventurer Sheet 4 - South Flip_44
+  - first:
+      213: 8841324006598950635
+    second: Adventurer Sheet 4 - South Flip_45
+  - first:
+      213: 4632962315992981088
+    second: Adventurer Sheet 4 - South Flip_46
+  - first:
+      213: 5470272093683660777
+    second: Adventurer Sheet 4 - South Flip_47
+  - first:
+      213: 7469085319097610109
+    second: Adventurer Sheet 4 - South Flip_48
+  - first:
+      213: 8208840299377607191
+    second: Adventurer Sheet 4 - South Flip_49
+  - first:
+      213: -5614047552749494388
+    second: Adventurer Sheet 4 - South Flip_50
+  - first:
+      213: -6578420128603300211
+    second: Adventurer Sheet 4 - South Flip_51
+  - first:
+      213: 6980221422133300574
+    second: Adventurer Sheet 4 - South Flip_52
+  - first:
+      213: 7832813816044696561
+    second: Adventurer Sheet 4 - South Flip_53
+  - first:
+      213: -7630671759228660603
+    second: Adventurer Sheet 4 - South Flip_54
+  - first:
+      213: -4700080695317940876
+    second: Adventurer Sheet 4 - South Flip_55
+  - first:
+      213: 2164703427668520756
+    second: Adventurer Sheet 4 - South Flip_56
+  - first:
+      213: 7922716269856986446
+    second: Adventurer Sheet 4 - South Flip_57
+  - first:
+      213: -7706041637266093286
+    second: Adventurer Sheet 4 - South Flip_58
+  - first:
+      213: -8901828254347165130
+    second: Adventurer Sheet 4 - South Flip_59
+  - first:
+      213: -1775594220669882754
+    second: Adventurer Sheet 4 - South Flip_60
+  - first:
+      213: -4107135870922527980
+    second: Adventurer Sheet 4 - South Flip_61
+  - first:
+      213: -141668875438129866
+    second: Adventurer Sheet 4 - South Flip_62
+  - first:
+      213: -74403526869887847
+    second: Adventurer Sheet 4 - South Flip_63
+  - first:
+      213: -4942145418488931849
+    second: Adventurer Sheet 4 - South Flip_64
+  - first:
+      213: -6711637703720725275
+    second: Adventurer Sheet 4 - South Flip_65
+  - first:
+      213: -2121604100041245275
+    second: Adventurer Sheet 4 - South Flip_66
+  - first:
+      213: -5156462414536280530
+    second: Adventurer Sheet 4 - South Flip_67
+  - first:
+      213: 1772279898324258765
+    second: Adventurer Sheet 4 - South Flip_68
+  - first:
+      213: 2416741828364106467
+    second: Adventurer Sheet 4 - South Flip_69
+  - first:
+      213: 8018395785711691290
+    second: Adventurer Sheet 4 - South Flip_70
+  - first:
+      213: 4680077502542816227
+    second: Adventurer Sheet 4 - South Flip_71
+  - first:
+      213: -9223001294928440246
+    second: Adventurer Sheet 4 - South Flip_72
+  - first:
+      213: -3857825662759354680
+    second: Adventurer Sheet 4 - South Flip_73
+  - first:
+      213: 6837616245456342682
+    second: Adventurer Sheet 4 - South Flip_74
+  - first:
+      213: 7237885667354633097
+    second: Adventurer Sheet 4 - South Flip_75
+  - first:
+      213: 5906855336236087939
+    second: Adventurer Sheet 4 - South Flip_76
+  - first:
+      213: 8185433639458179710
+    second: Adventurer Sheet 4 - South Flip_77
+  - first:
+      213: -4175253916942764241
+    second: Adventurer Sheet 4 - South Flip_78
+  - first:
+      213: 1097106373732924882
+    second: Adventurer Sheet 4 - South Flip_79
+  - first:
+      213: -6701954839606792555
+    second: Adventurer Sheet 4 - South Flip_80
+  - first:
+      213: 4844755524373416092
+    second: Adventurer Sheet 4 - South Flip_81
+  - first:
+      213: -7106284988254203739
+    second: Adventurer Sheet 4 - South Flip_82
+  - first:
+      213: -8110816143489033480
+    second: Adventurer Sheet 4 - South Flip_83
+  - first:
+      213: -3258280794536436709
+    second: Adventurer Sheet 4 - South Flip_84
+  - first:
+      213: -4473400326020582535
+    second: Adventurer Sheet 4 - South Flip_85
+  - first:
+      213: -4560100323872950119
+    second: Adventurer Sheet 4 - South Flip_86
+  - first:
+      213: 859077157161519346
+    second: Adventurer Sheet 4 - South Flip_87
+  - first:
+      213: -4636988153135422265
+    second: Adventurer Sheet 4 - South Flip_88
+  - first:
+      213: 7193242570868868400
+    second: Adventurer Sheet 4 - South Flip_89
+  - first:
+      213: -3381520211366133429
+    second: Adventurer Sheet 4 - South Flip_90
+  - first:
+      213: -3627651533230210114
+    second: Adventurer Sheet 4 - South Flip_91
+  - first:
+      213: 1049827052545479649
+    second: Adventurer Sheet 4 - South Flip_92
+  - first:
+      213: 7870160482473263787
+    second: Adventurer Sheet 4 - South Flip_93
+  - first:
+      213: 6792260809095006310
+    second: Adventurer Sheet 4 - South Flip_94
+  - first:
+      213: 6459405471146772901
+    second: Adventurer Sheet 4 - South Flip_95
+  - first:
+      213: 836827327112172933
+    second: Adventurer Sheet 4 - South Flip_96
+  - first:
+      213: 3053350692503326567
+    second: Adventurer Sheet 4 - South Flip_97
+  - first:
+      213: -4357088753959736268
+    second: Adventurer Sheet 4 - South Flip_98
+  - first:
+      213: -4872616371217023437
+    second: Adventurer Sheet 4 - South Flip_99
+  - first:
+      213: 3657455648976845207
+    second: Adventurer Sheet 4 - South Flip_100
+  - first:
+      213: 5308965144460982398
+    second: Adventurer Sheet 4 - South Flip_101
+  - first:
+      213: -5870320572446021239
+    second: Adventurer Sheet 4 - South Flip_102
+  - first:
+      213: -5223751254053208632
+    second: Adventurer Sheet 4 - South Flip_103
+  - first:
+      213: 4700003332745328094
+    second: Adventurer Sheet 4 - South Flip_104
+  - first:
+      213: -2719376824960836781
+    second: Adventurer Sheet 4 - South Flip_105
+  - first:
+      213: 961338738241516925
+    second: Adventurer Sheet 4 - South Flip_106
+  - first:
+      213: 3821601271905814725
+    second: Adventurer Sheet 4 - South Flip_107
+  - first:
+      213: 722765444203267042
+    second: Adventurer Sheet 4 - South Flip_108
+  - first:
+      213: -9223205597206065839
+    second: Adventurer Sheet 4 - South Flip_109
+  - first:
+      213: -7755258257100191759
+    second: Adventurer Sheet 4 - South Flip_110
+  - first:
+      213: -620117400485283466
+    second: Adventurer Sheet 4 - South Flip_111
+  - first:
+      213: -4061858696891247832
+    second: Adventurer Sheet 4 - South Flip_112
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 556
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278f81735d900500800000000000000
+      internalID: 360460951902717733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 580
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c2ec8afcd4d950800000000000000
+      internalID: 6473041533101851850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 554
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0dc6a88b751570800000000000000
+      internalID: 8436785303792717345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 577
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4221ae925bb58150800000000000000
+      internalID: 5874307252497752651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 585
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063d23964c9197880800000000000000
+      internalID: -8612824481000139936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 560
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed879bad2badc380800000000000000
+      internalID: -8949308671874593304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 582
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7da898bbee0e980800000000000000
+      internalID: -8511540806496364554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 568
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea8577c9b77a6b0800000000000000
+      internalID: -5285119725748572562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df8fcd4be883ce0800000000000000
+      internalID: -1425232374610199268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 519
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3cd1135f116210800000000000000
+      internalID: 1324374207066030022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 521
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf58efafae18e20800000000000000
+      internalID: 3351217961473277410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 520
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1868bc0c83e33e0800000000000000
+      internalID: -2072156377844383239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 524
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223408a12b1bff340800000000000000
+      internalID: 4899830298109297442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 518
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee5dec19247bec0800000000000000
+      internalID: -3551296587150528866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 520
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba9fda410c0b0410800000000000000
+      internalID: 1444261305193044664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 492
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2475317a0e77e0800000000000000
+      internalID: -1765962522538266700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 492
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88580efa6047530800000000000000
+      internalID: 3851710933764507891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 492
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f163eea2493b20800000000000000
+      internalID: 3114593936209999775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 491
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd95f949dca0e8f0800000000000000
+      internalID: -513220308271522316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 490
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7014d7b3d19970800000000000000
+      internalID: 8760015536702651118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 489
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ad60b3c8b18820800000000000000
+      internalID: 2918817184130901366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 484
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c18b39f52b93320800000000000000
+      internalID: 2538255988569938998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc42f7300941d60800000000000000
+      internalID: 7860065594360778746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 453
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c5211c2cc14c4d0800000000000000
+      internalID: -3115333419445101468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 454
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ee1b62979e40d0800000000000000
+      internalID: -3436642810518902762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 454
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95faa858fa54330800000000000000
+      internalID: 3694552057419618748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 455
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fca861abbbe4d0800000000000000
+      internalID: -3104181216221532146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 455
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd29816fb23a7e0800000000000000
+      internalID: -1755511093770134686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 455
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87fdf905b1f5a790800000000000000
+      internalID: -7519338242966161525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 413
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba6cd2d9f52c260800000000000000
+      internalID: 7116355489881304004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 413
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02804f0f15490d0800000000000000
+      internalID: -3417016121939189581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 409
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd307453cd66ab3b0800000000000000
+      internalID: -5495967299279584292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 408
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e398afbb582a1d0800000000000000
+      internalID: -3340960931146809851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 410
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe11a705d593520800000000000000
+      internalID: 2682277653302603524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 411
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cabb302b60471360800000000000000
+      internalID: 7140246563065674432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 410
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2741dcfb97a81e10800000000000000
+      internalID: 2168667508982236973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 379
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f5f37df52ed4c0800000000000000
+      internalID: -4260926426943457459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 376
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7192b03aad8f6060800000000000000
+      internalID: 6948928512156930430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 376
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ce9eff7e8d5040800000000000000
+      internalID: 4638019871645287078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 376
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df9aff3d74a8fa0800000000000000
+      internalID: -5797742594433090284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 376
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e517f5187f579e0800000000000000
+      internalID: -1624119955573088678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 379
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215493a379ca7620800000000000000
+      internalID: 2772750019102789930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_42
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 380
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc061c666c5de4970800000000000000
+      internalID: 8741158974876901580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 344
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde124619a30d660800000000000000
+      internalID: 7408485783149079988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 344
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c36927d05bb2750800000000000000
+      internalID: 6281313174659939478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 346
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb6753751b2ba70800000000000000
+      internalID: 8841324006598950635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 350
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e588e0ea69b4040800000000000000
+      internalID: 4632962315992981088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 351
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73fb88c7f4aeb40800000000000000
+      internalID: 5470272093683660777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 350
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe5e9568587a760800000000000000
+      internalID: 7469085319097610109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 343
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712405e82c8abe170800000000000000
+      internalID: 8208840299377607191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 312
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f173ace75e612b0800000000000000
+      internalID: -5614047552749494388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 311
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e125b3fb1c4b4a0800000000000000
+      internalID: -6578420128603300211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 311
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc3df866abed060800000000000000
+      internalID: 6980221422133300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 307
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3bd196aaeb3bc60800000000000000
+      internalID: 7832813816044696561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 307
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841299c6786a1690800000000000000
+      internalID: -7630671759228660603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_55
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 307
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47537eb7285f5ceb0800000000000000
+      internalID: -4700080695317940876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 307
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa0426c429a0e10800000000000000
+      internalID: 2164703427668520756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459809987423fd60800000000000000
+      internalID: 7922716269856986446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 265
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b826295f3ae0590800000000000000
+      internalID: -7706041637266093286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 273
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320a18dd5a567480800000000000000
+      internalID: -8901828254347165130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_60
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2cbbb672db57e0800000000000000
+      internalID: -1775594220669882754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 268
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be5699fa58007c0800000000000000
+      internalID: -4107135870922527980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 268
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df7cb88e0b80ef0800000000000000
+      internalID: -141668875438129866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 271
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99452e2f26aa7fef0800000000000000
+      internalID: -74403526869887847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 235
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f994ae2de8f96bb0800000000000000
+      internalID: -4942145418488931849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 237
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49b9871197bd2a0800000000000000
+      internalID: -6711637703720725275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 221
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad770fcf4c8e82e0800000000000000
+      internalID: -2121604100041245275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 221
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2679eb01c09078b0800000000000000
+      internalID: -5156462414536280530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfce267d27689810800000000000000
+      internalID: 1772279898324258765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea787173edf98120800000000000000
+      internalID: 2416741828364106467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 230
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a5dbdb70174f60800000000000000
+      internalID: 8018395785711691290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ac5441b9f2f040800000000000000
+      internalID: 4680077502542816227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 190
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4492d41031510080800000000000000
+      internalID: -9223001294928440246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 190
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb7d5dfff367ac0800000000000000
+      internalID: -3857825662759354680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8ddc7fb714ee50800000000000000
+      internalID: 6837616245456342682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983609f9aa2227460800000000000000
+      internalID: 7237885667354633097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af8f7e1ad59f150800000000000000
+      internalID: 5906855336236087939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 192
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a007cd680889170800000000000000
+      internalID: 8185433639458179710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 166
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2771991fa48e06c0800000000000000
+      internalID: -4175253916942764241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddfa272f64b93f00800000000000000
+      internalID: 1097106373732924882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 150
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ee684f49fddf2a0800000000000000
+      internalID: -6701954839606792555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 150
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9883e51b770c3340800000000000000
+      internalID: 4844755524373416092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0da623477616d90800000000000000
+      internalID: -7106284988254203739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_83
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 153
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa15d0c0b7907f80800000000000000
+      internalID: -8110816143489033480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 154
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9d2761e248c2d0800000000000000
+      internalID: -3258280794536436709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733d65ca1a4be1c0800000000000000
+      internalID: -4473400326020582535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b8677ae447b0c0800000000000000
+      internalID: -4560100323872950119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c3437f1e0ceb00800000000000000
+      internalID: 859077157161519346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42ba0b7db16afb0800000000000000
+      internalID: -4636988153135422265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_89
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354bdbb10883d360800000000000000
+      internalID: 7193242570868868400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c7b8a84d6211d0800000000000000
+      internalID: -3381520211366133429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 129
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb389e0962ef7adc0800000000000000
+      internalID: -3627651533230210114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3919e542cb19e00800000000000000
+      internalID: 1049827052545479649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c22bc24d683d60800000000000000
+      internalID: 7870160482473263787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684aeb0835f24e50800000000000000
+      internalID: 6792260809095006310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90be77d0b64a950800000000000000
+      internalID: 6459405471146772901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_96
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5855cd235020d9b00800000000000000
+      internalID: 836827327112172933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_97
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 83
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8a59074eaf5a20800000000000000
+      internalID: 3053350692503326567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 83
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6165fcd28883c0800000000000000
+      internalID: -4357088753959736268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3bd20a3df06cb0800000000000000
+      internalID: -4872616371217023437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_100
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b203e884e1c230800000000000000
+      internalID: 3657455648976845207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_101
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f688bbab3da940800000000000000
+      internalID: 5308965144460982398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 47
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989efa9aa8e688ea0800000000000000
+      internalID: -5870320572446021239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_103
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 44
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd382b39e18187b0800000000000000
+      internalID: -5223751254053208632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 45
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ff632124c93140800000000000000
+      internalID: 4700003332745328094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 47
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b97c18f25d24ad0800000000000000
+      internalID: -2719376824960836781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_106
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7535b13d7c575d00800000000000000
+      internalID: 961338738241516925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8802deb1e090530800000000000000
+      internalID: 3821601271905814725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_108
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c9a59757c70a00800000000000000
+      internalID: 722765444203267042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_109
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d43204067900080800000000000000
+      internalID: -9223205597206065839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 14
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c02c44b9cf5490800000000000000
+      internalID: -7755258257100191759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_111
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 13
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67939018286e467f0800000000000000
+      internalID: -620117400485283466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sheet 4 - South Flip_112
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 13
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82357fb290161a7c0800000000000000
+      internalID: -4061858696891247832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventurer Sheet 4 - South Flip_73: -3857825662759354680
+      Adventurer Sheet 4 - South Flip_96: 836827327112172933
+      Adventurer Sheet 4 - South Flip_70: 8018395785711691290
+      Adventurer Sheet 4 - South Flip_4: -8612824481000139936
+      Adventurer Sheet 4 - South Flip_24: -3436642810518902762
+      Adventurer Sheet 4 - South Flip_44: 6281313174659939478
+      Adventurer Sheet 4 - South Flip_35: 2168667508982236973
+      Adventurer Sheet 4 - South Flip_74: 6837616245456342682
+      Adventurer Sheet 4 - South Flip_98: -4357088753959736268
+      Adventurer Sheet 4 - South Flip_94: 6792260809095006310
+      Adventurer Sheet 4 - South Flip_30: -3417016121939189581
+      Adventurer Sheet 4 - South Flip_12: 4899830298109297442
+      Adventurer Sheet 4 - South Flip_53: 7832813816044696561
+      Adventurer Sheet 4 - South Flip_61: -4107135870922527980
+      Adventurer Sheet 4 - South Flip_65: -6711637703720725275
+      Adventurer Sheet 4 - South Flip_52: 6980221422133300574
+      Adventurer Sheet 4 - South Flip_63: -74403526869887847
+      Adventurer Sheet 4 - South Flip_90: -3381520211366133429
+      Adventurer Sheet 4 - South Flip_33: 2682277653302603524
+      Adventurer Sheet 4 - South Flip_76: 5906855336236087939
+      Adventurer Sheet 4 - South Flip_75: 7237885667354633097
+      Adventurer Sheet 4 - South Flip_5: -8949308671874593304
+      Adventurer Sheet 4 - South Flip_110: -7755258257100191759
+      Adventurer Sheet 4 - South Flip_87: 859077157161519346
+      Adventurer Sheet 4 - South Flip_95: 6459405471146772901
+      Adventurer Sheet 4 - South Flip_13: -3551296587150528866
+      Adventurer Sheet 4 - South Flip_88: -4636988153135422265
+      Adventurer Sheet 4 - South Flip_29: 7116355489881304004
+      Adventurer Sheet 4 - South Flip_39: -5797742594433090284
+      Adventurer Sheet 4 - South Flip_48: 7469085319097610109
+      Adventurer Sheet 4 - South Flip_50: -5614047552749494388
+      Adventurer Sheet 4 - South Flip_25: 3694552057419618748
+      Adventurer Sheet 4 - South Flip_78: -4175253916942764241
+      Adventurer Sheet 4 - South Flip_22: 7860065594360778746
+      Adventurer Sheet 4 - South Flip_57: 7922716269856986446
+      Adventurer Sheet 4 - South Flip_111: -620117400485283466
+      Adventurer Sheet 4 - South Flip_17: 3114593936209999775
+      Adventurer Sheet 4 - South Flip_47: 5470272093683660777
+      Adventurer Sheet 4 - South Flip_31: -5495967299279584292
+      Adventurer Sheet 4 - South Flip_60: -1775594220669882754
+      Adventurer Sheet 4 - South Flip_46: 4632962315992981088
+      Adventurer Sheet 4 - South Flip_27: -1755511093770134686
+      Adventurer Sheet 4 - South Flip_62: -141668875438129866
+      Adventurer Sheet 4 - South Flip_81: 4844755524373416092
+      Adventurer Sheet 4 - South Flip_105: -2719376824960836781
+      Adventurer Sheet 4 - South Flip_18: -513220308271522316
+      Adventurer Sheet 4 - South Flip_64: -4942145418488931849
+      Adventurer Sheet 4 - South Flip_10: 3351217961473277410
+      Adventurer Sheet 4 - South Flip_67: -5156462414536280530
+      Adventurer Sheet 4 - South Flip_49: 8208840299377607191
+      Adventurer Sheet 4 - South Flip_92: 1049827052545479649
+      Adventurer Sheet 4 - South Flip_34: 7140246563065674432
+      Adventurer Sheet 4 - South Flip_93: 7870160482473263787
+      Adventurer Sheet 4 - South Flip_40: -1624119955573088678
+      Adventurer Sheet 4 - South Flip_99: -4872616371217023437
+      Adventurer Sheet 4 - South Flip_100: 3657455648976845207
+      Adventurer Sheet 4 - South Flip_37: 6948928512156930430
+      Adventurer Sheet 4 - South Flip_82: -7106284988254203739
+      Adventurer Sheet 4 - South Flip_69: 2416741828364106467
+      Adventurer Sheet 4 - South Flip_104: 4700003332745328094
+      Adventurer Sheet 4 - South Flip_11: -2072156377844383239
+      Adventurer Sheet 4 - South Flip_83: -8110816143489033480
+      Adventurer Sheet 4 - South Flip_109: -9223205597206065839
+      Adventurer Sheet 4 - South Flip_7: -5285119725748572562
+      Adventurer Sheet 4 - South Flip_36: -4260926426943457459
+      Adventurer Sheet 4 - South Flip_71: 4680077502542816227
+      Adventurer Sheet 4 - South Flip_86: -4560100323872950119
+      Adventurer Sheet 4 - South Flip_6: -8511540806496364554
+      Adventurer Sheet 4 - South Flip_26: -3104181216221532146
+      Adventurer Sheet 4 - South Flip_51: -6578420128603300211
+      Adventurer Sheet 4 - South Flip_38: 4638019871645287078
+      Adventurer Sheet 4 - South Flip_41: 2772750019102789930
+      Adventurer Sheet 4 - South Flip_97: 3053350692503326567
+      Adventurer Sheet 4 - South Flip_103: -5223751254053208632
+      Adventurer Sheet 4 - South Flip_106: 961338738241516925
+      Adventurer Sheet 4 - South Flip_2: 8436785303792717345
+      Adventurer Sheet 4 - South Flip_15: -1765962522538266700
+      Adventurer Sheet 4 - South Flip_55: -4700080695317940876
+      Adventurer Sheet 4 - South Flip_23: -3115333419445101468
+      Adventurer Sheet 4 - South Flip_32: -3340960931146809851
+      Adventurer Sheet 4 - South Flip_21: 2538255988569938998
+      Adventurer Sheet 4 - South Flip_85: -4473400326020582535
+      Adventurer Sheet 4 - South Flip_58: -7706041637266093286
+      Adventurer Sheet 4 - South Flip_42: 8741158974876901580
+      Adventurer Sheet 4 - South Flip_72: -9223001294928440246
+      Adventurer Sheet 4 - South Flip_8: -1425232374610199268
+      Adventurer Sheet 4 - South Flip_28: -7519338242966161525
+      Adventurer Sheet 4 - South Flip_56: 2164703427668520756
+      Adventurer Sheet 4 - South Flip_68: 1772279898324258765
+      Adventurer Sheet 4 - South Flip_45: 8841324006598950635
+      Adventurer Sheet 4 - South Flip_14: 1444261305193044664
+      Adventurer Sheet 4 - South Flip_107: 3821601271905814725
+      Adventurer Sheet 4 - South Flip_9: 1324374207066030022
+      Adventurer Sheet 4 - South Flip_79: 1097106373732924882
+      Adventurer Sheet 4 - South Flip_112: -4061858696891247832
+      Adventurer Sheet 4 - South Flip_102: -5870320572446021239
+      Adventurer Sheet 4 - South Flip_80: -6701954839606792555
+      Adventurer Sheet 4 - South Flip_1: 6473041533101851850
+      Adventurer Sheet 4 - South Flip_77: 8185433639458179710
+      Adventurer Sheet 4 - South Flip_20: 2918817184130901366
+      Adventurer Sheet 4 - South Flip_16: 3851710933764507891
+      Adventurer Sheet 4 - South Flip_89: 7193242570868868400
+      Adventurer Sheet 4 - South Flip_3: 5874307252497752651
+      Adventurer Sheet 4 - South Flip_54: -7630671759228660603
+      Adventurer Sheet 4 - South Flip_66: -2121604100041245275
+      Adventurer Sheet 4 - South Flip_84: -3258280794536436709
+      Adventurer Sheet 4 - South Flip_91: -3627651533230210114
+      Adventurer Sheet 4 - South Flip_0: 360460951902717733
+      Adventurer Sheet 4 - South Flip_19: 8760015536702651118
+      Adventurer Sheet 4 - South Flip_43: 7408485783149079988
+      Adventurer Sheet 4 - South Flip_108: 722765444203267042
+      Adventurer Sheet 4 - South Flip_59: -8901828254347165130
+      Adventurer Sheet 4 - South Flip_101: 5308965144460982398
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

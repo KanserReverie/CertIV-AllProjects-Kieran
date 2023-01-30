@@ -1,0 +1,1896 @@
+fileFormatVersion: 2
+guid: 394685d9a15b9744e93d97f42c02365e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 130652453077142198
+    second: Crop 2 4W_0
+  - first:
+      213: 4809308820453830861
+    second: Crop 2 4W_1
+  - first:
+      213: 5549009034730812077
+    second: Crop 2 4W_2
+  - first:
+      213: -4960563246229068227
+    second: Crop 2 4W_3
+  - first:
+      213: 3819668047742081094
+    second: Crop 2 4W_4
+  - first:
+      213: 6892556947577134870
+    second: Crop 2 4W_5
+  - first:
+      213: 964835313780687933
+    second: Crop 2 4W_6
+  - first:
+      213: -6708546833078920702
+    second: Crop 2 4W_7
+  - first:
+      213: 3203139581249551653
+    second: Crop 2 4W_8
+  - first:
+      213: 1525582547323353870
+    second: Crop 2 4W_9
+  - first:
+      213: 8577742530911115085
+    second: Crop 2 4W_10
+  - first:
+      213: -592084492671058837
+    second: Crop 2 4W_11
+  - first:
+      213: -234647581996405788
+    second: Crop 2 4W_12
+  - first:
+      213: 4400274249056406480
+    second: Crop 2 4W_13
+  - first:
+      213: -1539602494597336545
+    second: Crop 2 4W_14
+  - first:
+      213: 2017929435187092436
+    second: Crop 2 4W_15
+  - first:
+      213: -8333686793627592234
+    second: Crop 2 4W_16
+  - first:
+      213: -6898538343798342495
+    second: Crop 2 4W_17
+  - first:
+      213: -1922148820565251451
+    second: Crop 2 4W_18
+  - first:
+      213: -8316816554019395470
+    second: Crop 2 4W_19
+  - first:
+      213: 8336283113115042779
+    second: Crop 2 4W_20
+  - first:
+      213: 7653495938988821897
+    second: Crop 2 4W_21
+  - first:
+      213: 5233352953814621442
+    second: Crop 2 4W_22
+  - first:
+      213: 6029169265837280849
+    second: Crop 2 4W_23
+  - first:
+      213: -2876526668424276445
+    second: Crop 2 4W_24
+  - first:
+      213: 3930027472036936167
+    second: Crop 2 4W_25
+  - first:
+      213: -8880484245782864141
+    second: Crop 2 4W_26
+  - first:
+      213: -1784639487714268579
+    second: Crop 2 4W_27
+  - first:
+      213: -5880036806481689648
+    second: Crop 2 4W_28
+  - first:
+      213: 7414564158839479481
+    second: Crop 2 4W_29
+  - first:
+      213: 7461094838511814528
+    second: Crop 2 4W_30
+  - first:
+      213: 248907868713164844
+    second: Crop 2 4W_31
+  - first:
+      213: 6461107972866869853
+    second: Crop 2 4W_32
+  - first:
+      213: 5049021316206799639
+    second: Crop 2 4W_33
+  - first:
+      213: 457991056703589464
+    second: Crop 2 4W_34
+  - first:
+      213: 3285180042337673869
+    second: Crop 2 4W_35
+  - first:
+      213: 868738108930557772
+    second: Crop 2 4W_36
+  - first:
+      213: -7667454786952000066
+    second: Crop 2 4W_37
+  - first:
+      213: 3729025675898029364
+    second: Crop 2 4W_38
+  - first:
+      213: 9130891412940484271
+    second: Crop 2 4W_39
+  - first:
+      213: -515619881906258029
+    second: Crop 2 4W_40
+  - first:
+      213: -8996647938631064142
+    second: Crop 2 4W_41
+  - first:
+      213: -7119988736346313789
+    second: Crop 2 4W_43
+  - first:
+      213: 3293979394846475748
+    second: Crop 2 4W_44
+  - first:
+      213: -4975975308898581622
+    second: Crop 2 4W_45
+  - first:
+      213: 6071613956070472946
+    second: Crop 2 4W_46
+  - first:
+      213: 8464443426672787984
+    second: Crop 2 4W_47
+  - first:
+      213: -4031561159323016662
+    second: Crop 2 4W_48
+  - first:
+      213: 2791177494965561861
+    second: Crop 2 4W_49
+  - first:
+      213: -7437674714849258569
+    second: Crop 2 4W_50
+  - first:
+      213: 7889662294770664540
+    second: Crop 2 4W_51
+  - first:
+      213: 3839973590329033632
+    second: Crop 2 4W_52
+  - first:
+      213: -7320408861360886801
+    second: Crop 2 4W_53
+  - first:
+      213: 890565263469625763
+    second: Crop 2 4W_54
+  - first:
+      213: 7366449413124654862
+    second: Crop 2 4W_55
+  - first:
+      213: 5000736592882215048
+    second: Crop 2 4W_56
+  - first:
+      213: 4155040882601255913
+    second: Crop 2 4W_57
+  - first:
+      213: 299654566087743971
+    second: Crop 2 4W_58
+  - first:
+      213: -372934502092512679
+    second: Crop 2 4W_59
+  - first:
+      213: -504960797339508273
+    second: Crop 2 4W_60
+  - first:
+      213: 3001058237348436322
+    second: Crop 2 4W_61
+  - first:
+      213: 329554338471031750
+    second: Crop 2 4W_62
+  - first:
+      213: 5854181993508976228
+    second: Crop 2 4W_63
+  - first:
+      213: 5303812351965159173
+    second: Crop 2 4W_64
+  - first:
+      213: 6286173918922416406
+    second: Crop 2 4W_65
+  - first:
+      213: -117813508684468988
+    second: Crop 2 4W_66
+  - first:
+      213: -3163663210304027735
+    second: Crop 2 4W_67
+  - first:
+      213: 3908502974347731795
+    second: Crop 2 4W_68
+  - first:
+      213: -6109873594328121749
+    second: Crop 2 4W_69
+  - first:
+      213: -6139197986685621685
+    second: Crop 2 4W_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crop 2 4W_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 311
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba42beb6bb20d100800000000000000
+      internalID: 130652453077142198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 313
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0bd4234e81eb240800000000000000
+      internalID: 4809308820453830861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 315
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23092315a020d40800000000000000
+      internalID: 5549009034730812077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 316
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3668ae720a882bb0800000000000000
+      internalID: -4960563246229068227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 304
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64893991adf220530800000000000000
+      internalID: 3819668047742081094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 303
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5c76860847af50800000000000000
+      internalID: 6892556947577134870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 320
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3486a02b98c36d00800000000000000
+      internalID: 964835313780687933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 316
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a524fd23476e2a0800000000000000
+      internalID: -6708546833078920702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 316
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d7f5a6a76d37c20800000000000000
+      internalID: 3203139581249551653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 314
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7eb07e35fb2510800000000000000
+      internalID: 1525582547323353870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 265
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4797b192634a0770800000000000000
+      internalID: 8577742530911115085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 266
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf2597a4e78c7f0800000000000000
+      internalID: -592084492671058837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb23b3744d5ebcf0800000000000000
+      internalID: -234647581996405788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 264
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db4e49ad1ae01d30800000000000000
+      internalID: 4400274249056406480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 260
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12783630bb32aae0800000000000000
+      internalID: -1539602494597336545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 253
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db912e3120210c10800000000000000
+      internalID: 2017929435187092436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 272
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99674d30cc85c80800000000000000
+      internalID: -8333686793627592234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 265
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acfc742de77340a0800000000000000
+      internalID: -6898538343798342495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 267
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa5c8e4d72355e0800000000000000
+      internalID: -1922148820565251451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 267
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e593986bb49c80800000000000000
+      internalID: -8316816554019395470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 215
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd34f48e25d60b370800000000000000
+      internalID: 8336283113115042779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc25da10ea63a60800000000000000
+      internalID: 7653495938988821897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 218
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9c54b8ca90a840800000000000000
+      internalID: 5233352953814621442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 211
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0fecd089eba350800000000000000
+      internalID: 6029169265837280849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 215
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32612ad4c368418d0800000000000000
+      internalID: -2876526668424276445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 204
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b944e9234a8630800000000000000
+      internalID: 3930027472036936167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 221
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed8a811ae22c480800000000000000
+      internalID: -8880484245782864141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae7a267dfab37e0800000000000000
+      internalID: -1784639487714268579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 219
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3cf63ada9e56ea0800000000000000
+      internalID: -5880036806481689648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 215
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc58f381d2d5e660800000000000000
+      internalID: 7414564158839479481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 166
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874ffc99322b8760800000000000000
+      internalID: 7461094838511814528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 166
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a278436c447300800000000000000
+      internalID: 248907868713164844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 167
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8c2a08777aa950800000000000000
+      internalID: 6461107972866869853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 168
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba1efd22ab11640800000000000000
+      internalID: 5049021316206799639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8f15807c1b5600800000000000000
+      internalID: 457991056703589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 154
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826db6c7dd479d20800000000000000
+      internalID: 3285180042337673869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 161
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4786a115b06e0c00800000000000000
+      internalID: 868738108930557772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 166
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd8b54ce7ab79590800000000000000
+      internalID: -7667454786952000066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 166
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358632581920c330800000000000000
+      internalID: 3729025675898029364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 163
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6bfecc5177be70800000000000000
+      internalID: 9130891412940484271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 114
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f39d3037628d8f0800000000000000
+      internalID: -515619881906258029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 104
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b525a8bd5c752380800000000000000
+      internalID: -8996647938631064142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 118
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbab45b7f7b03d90800000000000000
+      internalID: -7119988736346313789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 115
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c74faec096bd20800000000000000
+      internalID: 3293979394846475748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 121
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a834cf502d8c1fab0800000000000000
+      internalID: -4975975308898581622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 111
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc72e869b4b24450800000000000000
+      internalID: 6071613956070472946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 104
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012c834337eb77570800000000000000
+      internalID: 8464443426672787984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222a485c740d08c0800000000000000
+      internalID: -4031561159323016662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 120
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aac74b4214cb620800000000000000
+      internalID: 2791177494965561861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 117
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3518ad04218c890800000000000000
+      internalID: -7437674714849258569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54499d4e06bd7d60800000000000000
+      internalID: 7889662294770664540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38176a2a35a4530800000000000000
+      internalID: 3839973590329033632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb66fffceea86a90800000000000000
+      internalID: -7320408861360886801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 64
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c862836ceb5c00800000000000000
+      internalID: 890565263469625763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070e2d46b2ea3660800000000000000
+      internalID: 7366449413124654862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 51
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888aa0aaf6f266540800000000000000
+      internalID: 5000736592882215048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 59
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36caa1baba9a930800000000000000
+      internalID: 4155040882601255913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 69
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9dbfe7d36982400800000000000000
+      internalID: 299654566087743971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 65
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e946db0213daf0800000000000000
+      internalID: -372934502092512679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_60
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a41984d40ef8f0800000000000000
+      internalID: -504960797339508273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d96b0196e5a920800000000000000
+      internalID: 3001058237348436322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c331cebcefc29400800000000000000
+      internalID: 329554338471031750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466379d918b3e3150800000000000000
+      internalID: 5854181993508976228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f563abb3dea9940800000000000000
+      internalID: 5303812351965159173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61122b9afd9fc3750800000000000000
+      internalID: 6286173918922416406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dae11fc317d5ef0800000000000000
+      internalID: -117813508684468988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34bd072196814d0800000000000000
+      internalID: -3163663210304027735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_68
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 19
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ed8d3fbacd3630800000000000000
+      internalID: 3908502974347731795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7883665e553ba0800000000000000
+      internalID: -6109873594328121749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop 2 4W_70
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 18
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6fcd35ff2dcaa0800000000000000
+      internalID: -6139197986685621685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crop 2 4W_37: -7667454786952000066
+      Crop 2 4W_61: 3001058237348436322
+      Crop 2 4W_17: -6898538343798342495
+      Crop 2 4W_24: -2876526668424276445
+      Crop 2 4W_19: -8316816554019395470
+      Crop 2 4W_54: 890565263469625763
+      Crop 2 4W_70: -6139197986685621685
+      Crop 2 4W_58: 299654566087743971
+      Crop 2 4W_16: -8333686793627592234
+      Crop 2 4W_11: -592084492671058837
+      Crop 2 4W_31: 248907868713164844
+      Crop 2 4W_1: 4809308820453830861
+      Crop 2 4W_27: -1784639487714268579
+      Crop 2 4W_66: -117813508684468988
+      Crop 2 4W_35: 3285180042337673869
+      Crop 2 4W_57: 4155040882601255913
+      Crop 2 4W_64: 5303812351965159173
+      Crop 2 4W_67: -3163663210304027735
+      Crop 2 4W_43: -7119988736346313789
+      Crop 2 4W_69: -6109873594328121749
+      Crop 2 4W_52: 3839973590329033632
+      Crop 2 4W_65: 6286173918922416406
+      Crop 2 4W_10: 8577742530911115085
+      Crop 2 4W_5: 6892556947577134870
+      Crop 2 4W_39: 9130891412940484271
+      Crop 2 4W_20: 8336283113115042779
+      Crop 2 4W_48: -4031561159323016662
+      Crop 2 4W_22: 5233352953814621442
+      Crop 2 4W_29: 7414564158839479481
+      Crop 2 4W_30: 7461094838511814528
+      Crop 2 4W_51: 7889662294770664540
+      Crop 2 4W_44: 3293979394846475748
+      Crop 2 4W_0: 130652453077142198
+      Crop 2 4W_14: -1539602494597336545
+      Crop 2 4W_26: -8880484245782864141
+      Crop 2 4W_56: 5000736592882215048
+      Crop 2 4W_25: 3930027472036936167
+      Crop 2 4W_49: 2791177494965561861
+      Crop 2 4W_59: -372934502092512679
+      Crop 2 4W_68: 3908502974347731795
+      Crop 2 4W_7: -6708546833078920702
+      Crop 2 4W_40: -515619881906258029
+      Crop 2 4W_6: 964835313780687933
+      Crop 2 4W_12: -234647581996405788
+      Crop 2 4W_38: 3729025675898029364
+      Crop 2 4W_55: 7366449413124654862
+      Crop 2 4W_23: 6029169265837280849
+      Crop 2 4W_63: 5854181993508976228
+      Crop 2 4W_15: 2017929435187092436
+      Crop 2 4W_46: 6071613956070472946
+      Crop 2 4W_32: 6461107972866869853
+      Crop 2 4W_9: 1525582547323353870
+      Crop 2 4W_4: 3819668047742081094
+      Crop 2 4W_13: 4400274249056406480
+      Crop 2 4W_33: 5049021316206799639
+      Crop 2 4W_41: -8996647938631064142
+      Crop 2 4W_50: -7437674714849258569
+      Crop 2 4W_8: 3203139581249551653
+      Crop 2 4W_36: 868738108930557772
+      Crop 2 4W_2: 5549009034730812077
+      Crop 2 4W_3: -4960563246229068227
+      Crop 2 4W_60: -504960797339508273
+      Crop 2 4W_18: -1922148820565251451
+      Crop 2 4W_34: 457991056703589464
+      Crop 2 4W_62: 329554338471031750
+      Crop 2 4W_21: 7653495938988821897
+      Crop 2 4W_28: -5880036806481689648
+      Crop 2 4W_45: -4975975308898581622
+      Crop 2 4W_53: -7320408861360886801
+      Crop 2 4W_47: 8464443426672787984
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
